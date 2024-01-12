@@ -1,0 +1,3748 @@
+{
+    "result": "[accepted]",
+    "userEventCount": 3,
+    "distinctUserCount": 49,
+    "distinctShowCount": 42,
+    "eventCount": 237,
+    "sytFlixStartedEventsRatio": 38.6,
+    "durations": [
+        {
+            "platform": "sytazon",
+            "timeSpent": "21226"
+        },
+        {
+            "platform": "sysney",
+            "timeSpent": "21078"
+        },
+        {
+            "platform": "sytflix",
+            "timeSpent": "19005"
+        }
+    ],
+    "showsOnwards2020": [
+        {
+            "event": "stream-finished",
+            "frequency": 17
+        },
+        {
+            "event": "stream-interrupted",
+            "frequency": 4
+        },
+        {
+            "event": "stream-started",
+            "frequency": 15
+        },
+        {
+            "event": "show-liked",
+            "frequency": 7
+        }
+    ],
+    "users": [
+        {
+            "id": 1,
+            "age": 63,
+            "firstName": "Johnny",
+            "lastName": "Johnke",
+            "executedEventTypes": [
+                "stream-finished",
+                "show-liked"
+            ],
+            "executedEvents": [
+                {
+                    "id": "dc3c2ddd-267f-4726-8498-24a697d50ba8",
+                    "event": "stream-finished",
+                    "showId": "s4",
+                    "eventDate": "17-10-2023 10:56:43.656 Europe/Amsterdam"
+                },
+                {
+                    "id": "3dc96ba7-65db-45cd-8c36-e75169318c22",
+                    "event": "stream-finished",
+                    "showId": "s9",
+                    "eventDate": "17-10-2023 10:56:51.947 Europe/Amsterdam"
+                },
+                {
+                    "id": "183e3d34-baef-46aa-8b59-035094fd3e08",
+                    "event": "stream-finished",
+                    "showId": "s8",
+                    "eventDate": "17-10-2023 10:56:52.831 Europe/Amsterdam"
+                },
+                {
+                    "id": "845f788e-acd4-41eb-adad-097ec6d27d02",
+                    "event": "show-liked",
+                    "showId": "s4",
+                    "eventDate": "17-10-2023 10:56:55.655 Europe/Amsterdam"
+                },
+                {
+                    "id": "04884685-874c-42f7-8813-266db9a1b32e",
+                    "event": "stream-finished",
+                    "showId": "s9",
+                    "eventDate": "17-10-2023 10:56:56.449 Europe/Amsterdam"
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "age": 58,
+            "firstName": "Tony",
+            "lastName": "Duffit",
+            "executedEventTypes": [
+                "stream-finished",
+                "stream-started"
+            ],
+            "executedEvents": [
+                {
+                    "id": "56227936-e447-414e-90b8-d48a63e3509b",
+                    "event": "stream-finished",
+                    "showId": "s1",
+                    "eventDate": "17-10-2023 10:56:43.393 Europe/Amsterdam"
+                },
+                {
+                    "id": "436d5dc6-c654-4e30-8058-b190bd2793d3",
+                    "event": "stream-finished",
+                    "showId": "s3",
+                    "eventDate": "17-10-2023 10:56:48.416 Europe/Amsterdam"
+                },
+                {
+                    "id": "0fe8496d-ae8e-4cf3-97fe-dfb86d616132",
+                    "event": "stream-finished",
+                    "showId": "s6",
+                    "eventDate": "17-10-2023 10:56:48.859 Europe/Amsterdam"
+                },
+                {
+                    "id": "5dd72ba8-b0d8-44cf-bc82-0426073cb772",
+                    "event": "stream-started",
+                    "showId": "s10",
+                    "eventDate": "17-10-2023 10:56:49.918 Europe/Amsterdam"
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "age": 18,
+            "firstName": "Danella",
+            "lastName": "Reinhard",
+            "executedEventTypes": [
+                "stream-finished",
+                "stream-started"
+            ],
+            "executedEvents": [
+                {
+                    "id": "e82b97d9-be4c-48fb-8c85-de5ebc52cca5",
+                    "event": "stream-finished",
+                    "showId": "s8",
+                    "eventDate": "17-10-2023 04:56:41.287 Europe/Amsterdam"
+                },
+                {
+                    "id": "6ddcb529-04c5-4f80-866f-0d79396fb129",
+                    "event": "stream-finished",
+                    "showId": "s5",
+                    "eventDate": "17-10-2023 04:56:42.253 Europe/Amsterdam"
+                },
+                {
+                    "id": "f6ecaa78-c45c-4e1c-ba1a-15ad039f63b6",
+                    "event": "stream-started",
+                    "showId": "s9",
+                    "eventDate": "17-10-2023 04:56:44.979 Europe/Amsterdam"
+                },
+                {
+                    "id": "c5c0bcdf-3c35-4e99-8ad4-1d7365a6f409",
+                    "event": "stream-finished",
+                    "showId": "s7",
+                    "eventDate": "17-10-2023 04:56:45.332 Europe/Amsterdam"
+                },
+                {
+                    "id": "5c38b85a-cea7-4564-a34b-9f7c42101535",
+                    "event": "stream-finished",
+                    "showId": "s4",
+                    "eventDate": "17-10-2023 04:56:45.949 Europe/Amsterdam"
+                },
+                {
+                    "id": "e7d59eb4-bcec-4b72-9aa0-34a8b8f3d5cf",
+                    "event": "stream-started",
+                    "showId": "s6",
+                    "eventDate": "17-10-2023 04:56:47.976 Europe/Amsterdam"
+                },
+                {
+                    "id": "10bc278a-d703-4976-b9ac-c3d288a2f191",
+                    "event": "stream-started",
+                    "showId": "s6",
+                    "eventDate": "17-10-2023 04:56:49.565 Europe/Amsterdam"
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "age": 55,
+            "firstName": "Ardys",
+            "lastName": "Hickisson",
+            "executedEventTypes": [
+                "stream-started",
+                "stream-finished"
+            ],
+            "executedEvents": [
+                {
+                    "id": "4b4e40f4-a7f1-43d7-98d1-2560690f7503",
+                    "event": "stream-started",
+                    "showId": "s9",
+                    "eventDate": "17-10-2023 10:56:42.341 Europe/Amsterdam"
+                },
+                {
+                    "id": "e723bf9b-9324-4ffd-a55c-895781b2fd87",
+                    "event": "stream-finished",
+                    "showId": "s4",
+                    "eventDate": "17-10-2023 10:56:43.306 Europe/Amsterdam"
+                },
+                {
+                    "id": "86341ee3-579c-4872-8305-0d8e7b5f86e4",
+                    "event": "stream-started",
+                    "showId": "s8",
+                    "eventDate": "17-10-2023 10:56:57.949 Europe/Amsterdam"
+                },
+                {
+                    "id": "7f7e470e-46d0-413d-b966-ac4cc0ec0c1e",
+                    "event": "stream-finished",
+                    "showId": "s6",
+                    "eventDate": "17-10-2023 10:56:58.213 Europe/Amsterdam"
+                },
+                {
+                    "id": "f72df567-8228-42b8-be25-b16795291b39",
+                    "event": "stream-started",
+                    "showId": "s6",
+                    "eventDate": "17-10-2023 10:56:59.893 Europe/Amsterdam"
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "age": 37,
+            "firstName": "Mariana",
+            "lastName": "Pollendine",
+            "executedEventTypes": [
+                "stream-finished",
+                "stream-started"
+            ],
+            "executedEvents": [
+                {
+                    "id": "f00cb941-9f1d-45fb-96db-0cf8221a7340",
+                    "event": "stream-finished",
+                    "showId": "s649",
+                    "eventDate": "17-10-2023 17:56:46.911 Europe/Amsterdam"
+                },
+                {
+                    "id": "7f88a6d3-f3ac-4e72-a2fd-d4b08c20c622",
+                    "event": "stream-started",
+                    "showId": "s5",
+                    "eventDate": "17-10-2023 17:56:44.538 Europe/Amsterdam"
+                },
+                {
+                    "id": "8347576c-a1b5-442b-8be5-a4b0f3ce25bf",
+                    "event": "stream-finished",
+                    "showId": "s979",
+                    "eventDate": "17-10-2023 17:56:51.593 Europe/Amsterdam"
+                },
+                {
+                    "id": "8678a105-1aff-4761-9e42-50c93c975034",
+                    "event": "stream-started",
+                    "showId": "s7",
+                    "eventDate": "17-10-2023 17:56:54.331 Europe/Amsterdam"
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "age": 42,
+            "firstName": "Barnie",
+            "lastName": "Brodeur",
+            "executedEventTypes": [
+                "show-liked"
+            ],
+            "executedEvents": [
+                {
+                    "id": "85ffdeec-21c7-4c14-9c99-1d64199ca116",
+                    "event": "show-liked",
+                    "showId": "s4",
+                    "eventDate": "17-10-2023 10:56:42.955 Europe/Amsterdam"
+                }
+            ]
+        },
+        {
+            "id": 7,
+            "age": 36,
+            "firstName": "Bowie",
+            "lastName": "Kilius",
+            "executedEventTypes": [
+                "stream-finished",
+                "stream-interrupted"
+            ],
+            "executedEvents": [
+                {
+                    "id": "cfe74999-f1c3-40b2-885f-eb15025864c5",
+                    "event": "stream-finished",
+                    "showId": "s2",
+                    "eventDate": "17-10-2023 10:56:45.508 Europe/Amsterdam"
+                },
+                {
+                    "id": "392800fd-6af8-42c4-8e16-c5210f0a286f",
+                    "event": "stream-interrupted",
+                    "showId": "s6",
+                    "eventDate": "17-10-2023 10:56:55.389 Europe/Amsterdam"
+                },
+                {
+                    "id": "faaca9b7-91d3-413e-ba9c-a6a1ba0e9b90",
+                    "event": "stream-finished",
+                    "showId": "s10",
+                    "eventDate": "17-10-2023 10:56:57.155 Europe/Amsterdam"
+                },
+                {
+                    "id": "09396b29-6e50-44f3-a51d-c2df39fa7843",
+                    "event": "stream-finished",
+                    "showId": "s9",
+                    "eventDate": "17-10-2023 10:56:59.274 Europe/Amsterdam"
+                }
+            ]
+        },
+        {
+            "id": 8,
+            "age": 23,
+            "firstName": "Kaine",
+            "lastName": "Lithgow",
+            "executedEventTypes": [
+                "stream-finished",
+                "stream-started"
+            ],
+            "executedEvents": [
+                {
+                    "id": "8c484361-69a0-4519-b06b-40092d4583b1",
+                    "event": "stream-finished",
+                    "showId": "s10",
+                    "eventDate": "17-10-2023 15:56:52.309 Europe/Amsterdam"
+                },
+                {
+                    "id": "e20a6e66-2996-44e9-9690-28d2ea6620af",
+                    "event": "stream-finished",
+                    "showId": "s5",
+                    "eventDate": "17-10-2023 15:56:42.691 Europe/Amsterdam"
+                },
+                {
+                    "id": "60007eb0-1844-44a7-ace0-76715b301cd4",
+                    "event": "stream-started",
+                    "showId": "s6",
+                    "eventDate": "17-10-2023 15:56:47.005 Europe/Amsterdam"
+                },
+                {
+                    "id": "4dc3242f-abd6-4e74-83b6-de3b912208c1",
+                    "event": "stream-started",
+                    "showId": "s2",
+                    "eventDate": "17-10-2023 15:56:54.596 Europe/Amsterdam"
+                },
+                {
+                    "id": "f95db3e1-45ec-43d1-8a5e-b3d67b7a507b",
+                    "event": "stream-finished",
+                    "showId": "s2",
+                    "eventDate": "17-10-2023 15:56:58.302 Europe/Amsterdam"
+                }
+            ]
+        },
+        {
+            "id": 9,
+            "age": 40,
+            "firstName": "Herculie",
+            "lastName": "Eadon",
+            "executedEventTypes": [
+                "show-liked"
+            ],
+            "executedEvents": [
+                {
+                    "id": "812b3cbb-0afc-4dfc-8f27-677b55daf36c",
+                    "event": "show-liked",
+                    "showId": "s7",
+                    "eventDate": "17-10-2023 10:56:44.099 Europe/Amsterdam"
+                },
+                {
+                    "id": "f7be37df-d683-40f1-8305-80072a282b6b",
+                    "event": "show-liked",
+                    "showId": "s10",
+                    "eventDate": "17-10-2023 10:56:41.814 Europe/Amsterdam"
+                }
+            ]
+        },
+        {
+            "id": 10,
+            "age": 38,
+            "firstName": "Aigneis",
+            "lastName": "Gumbley",
+            "executedEventTypes": [
+                "show-liked",
+                "stream-started",
+                "stream-finished"
+            ],
+            "executedEvents": [
+                {
+                    "id": "b91c3712-fcf8-4862-8f2b-acd39bed5324",
+                    "event": "show-liked",
+                    "showId": "s1",
+                    "eventDate": "17-10-2023 04:56:42.429 Europe/Amsterdam"
+                },
+                {
+                    "id": "3ed75f84-436a-4d17-b951-d7802d81d7ee",
+                    "event": "stream-started",
+                    "showId": "s2",
+                    "eventDate": "17-10-2023 04:56:44.009 Europe/Amsterdam"
+                },
+                {
+                    "id": "3c39d578-9925-4dc1-9681-0ee8c0b6ff3e",
+                    "event": "stream-finished",
+                    "showId": "s2",
+                    "eventDate": "17-10-2023 04:56:46.126 Europe/Amsterdam"
+                },
+                {
+                    "id": "7de45ef8-2d08-4e5f-ba16-0164850ce34c",
+                    "event": "stream-started",
+                    "showId": "s6",
+                    "eventDate": "17-10-2023 04:56:52.212 Europe/Amsterdam"
+                },
+                {
+                    "id": "1f34afee-d6e7-4432-bf02-58117f9305d2",
+                    "event": "stream-started",
+                    "showId": "s1",
+                    "eventDate": "17-10-2023 04:56:55.832 Europe/Amsterdam"
+                }
+            ]
+        },
+        {
+            "id": 11,
+            "age": 35,
+            "firstName": "Matty",
+            "lastName": "Cunah",
+            "executedEventTypes": [
+                "stream-finished",
+                "stream-started"
+            ],
+            "executedEvents": [
+                {
+                    "id": "7e9526f8-7a24-47d4-9bb3-95826eb57e9f",
+                    "event": "stream-finished",
+                    "showId": "s2547",
+                    "eventDate": "17-10-2023 04:56:41.287 Europe/Amsterdam"
+                },
+                {
+                    "id": "51e00bb3-addf-4604-896d-17c28694a7dd",
+                    "event": "stream-started",
+                    "showId": "s3",
+                    "eventDate": "17-10-2023 04:56:50.105 Europe/Amsterdam"
+                },
+                {
+                    "id": "618ffc03-4da0-489e-bc9e-c381d5e029ca",
+                    "event": "stream-finished",
+                    "showId": "s10",
+                    "eventDate": "17-10-2023 04:56:52.742 Europe/Amsterdam"
+                },
+                {
+                    "id": "60758b5c-5d28-45bb-9851-9c04fb97b3ac",
+                    "event": "stream-finished",
+                    "showId": "s2",
+                    "eventDate": "17-10-2023 04:56:56.185 Europe/Amsterdam"
+                }
+            ]
+        },
+        {
+            "id": 12,
+            "age": 52,
+            "firstName": "Robinet",
+            "lastName": "Kenderdine",
+            "executedEventTypes": [
+                "stream-started",
+                "stream-finished"
+            ],
+            "executedEvents": [
+                {
+                    "id": "b30825f7-7e13-45e2-9ea4-57a9a9b00c35",
+                    "event": "stream-started",
+                    "showId": "s419",
+                    "eventDate": "17-10-2023 10:56:45.696 Europe/Amsterdam"
+                },
+                {
+                    "id": "80613391-432e-4f3a-809c-58f734008255",
+                    "event": "stream-finished",
+                    "showId": "s1",
+                    "eventDate": "17-10-2023 10:56:42.867 Europe/Amsterdam"
+                },
+                {
+                    "id": "53b837ba-adfd-4a5d-bd7b-968ebdb06753",
+                    "event": "stream-finished",
+                    "showId": "s2",
+                    "eventDate": "17-10-2023 10:56:44.803 Europe/Amsterdam"
+                }
+            ]
+        },
+        {
+            "id": 13,
+            "age": 59,
+            "firstName": "Maxi",
+            "lastName": "Temperton",
+            "executedEventTypes": [
+                "stream-finished"
+            ],
+            "executedEvents": [
+                {
+                    "id": "667ffa73-8b22-462f-8800-7b52fe09e2c5",
+                    "event": "stream-finished",
+                    "showId": "s8",
+                    "eventDate": "17-10-2023 01:56:46.742 Europe/Amsterdam"
+                },
+                {
+                    "id": "492ec618-f3ef-4e10-a8da-284c41f80beb",
+                    "event": "stream-finished",
+                    "showId": "s1050",
+                    "eventDate": "17-10-2023 01:56:59.010 Europe/Amsterdam"
+                }
+            ]
+        },
+        {
+            "id": 14,
+            "age": 35,
+            "firstName": "Ulysses",
+            "lastName": "Itzkov",
+            "executedEventTypes": [
+                "stream-finished",
+                "stream-interrupted",
+                "stream-started"
+            ],
+            "executedEvents": [
+                {
+                    "id": "bfc856a5-1a35-4a66-beea-23c4b3f50490",
+                    "event": "stream-finished",
+                    "showId": "s10",
+                    "eventDate": "17-10-2023 10:56:45.420 Europe/Amsterdam"
+                },
+                {
+                    "id": "cb0e4d3a-d483-4b1e-94d1-9eb61aa23ff2",
+                    "event": "stream-interrupted",
+                    "showId": "s1",
+                    "eventDate": "17-10-2023 10:56:46.390 Europe/Amsterdam"
+                },
+                {
+                    "id": "865eaab1-67d2-423a-a90f-c4e5f6b0b7d2",
+                    "event": "stream-finished",
+                    "showId": "s4",
+                    "eventDate": "17-10-2023 10:56:48.505 Europe/Amsterdam"
+                },
+                {
+                    "id": "e3ff4532-56f4-4dfb-80c7-8b9771e011bf",
+                    "event": "stream-started",
+                    "showId": "s87",
+                    "eventDate": "17-10-2023 10:56:48.594 Europe/Amsterdam"
+                },
+                {
+                    "id": "b3675b89-3672-4acc-8267-07ce536f7d63",
+                    "event": "stream-finished",
+                    "showId": "s4",
+                    "eventDate": "17-10-2023 10:56:55.213 Europe/Amsterdam"
+                },
+                {
+                    "id": "9789ca0e-fe71-40fc-8772-40b4fcd87b82",
+                    "event": "stream-finished",
+                    "showId": "s7",
+                    "eventDate": "17-10-2023 10:56:58.657 Europe/Amsterdam"
+                }
+            ]
+        },
+        {
+            "id": 15,
+            "age": 45,
+            "firstName": "Sunshine",
+            "lastName": "Coverdale",
+            "executedEventTypes": [
+                "stream-finished",
+                "stream-started"
+            ],
+            "executedEvents": [
+                {
+                    "id": "7e831298-f3db-4c6f-ae77-0b855c852318",
+                    "event": "stream-finished",
+                    "showId": "s5",
+                    "eventDate": "17-10-2023 03:56:48.317 Europe/Amsterdam"
+                },
+                {
+                    "id": "b94b72ec-f925-46df-b9a8-27e4f0dbe138",
+                    "event": "stream-finished",
+                    "showId": "s873",
+                    "eventDate": "17-10-2023 03:56:44.626 Europe/Amsterdam"
+                },
+                {
+                    "id": "42e23677-e4a8-4b76-a95b-62f2543db412",
+                    "event": "stream-started",
+                    "showId": "s9",
+                    "eventDate": "17-10-2023 03:56:44.715 Europe/Amsterdam"
+                },
+                {
+                    "id": "be7c3c1c-a50f-4df4-832e-0180197edb65",
+                    "event": "stream-started",
+                    "showId": "s2",
+                    "eventDate": "17-10-2023 03:56:46.038 Europe/Amsterdam"
+                },
+                {
+                    "id": "2507dd10-ef83-4d80-8779-1725a0c4f69d",
+                    "event": "stream-finished",
+                    "showId": "s6",
+                    "eventDate": "17-10-2023 03:56:50.712 Europe/Amsterdam"
+                }
+            ]
+        },
+        {
+            "id": 16,
+            "age": 63,
+            "firstName": "Kym",
+            "lastName": "Meagher",
+            "executedEventTypes": [
+                "stream-started"
+            ],
+            "executedEvents": [
+                {
+                    "id": "02b230eb-b191-4052-9e0f-710e904d373a",
+                    "event": "stream-started",
+                    "showId": "s10",
+                    "eventDate": "17-10-2023 10:56:47.900 Europe/Amsterdam"
+                },
+                {
+                    "id": "ca06679d-bb9d-48c5-a774-2fd032d598d3",
+                    "event": "stream-started",
+                    "showId": "s3",
+                    "eventDate": "17-10-2023 10:56:53.714 Europe/Amsterdam"
+                }
+            ]
+        },
+        {
+            "id": 17,
+            "age": 20,
+            "firstName": "Marianne",
+            "lastName": "Sedman",
+            "executedEventTypes": [
+                "stream-finished",
+                "show-liked"
+            ],
+            "executedEvents": [
+                {
+                    "id": "2c1f3efc-6126-46cc-9df2-c7112abcf762",
+                    "event": "stream-finished",
+                    "showId": "s837",
+                    "eventDate": "17-10-2023 10:56:41.461 Europe/Amsterdam"
+                },
+                {
+                    "id": "12a27bc5-7aaa-43ba-b782-6080943c1f4c",
+                    "event": "stream-finished",
+                    "showId": "s9",
+                    "eventDate": "17-10-2023 10:56:44.185 Europe/Amsterdam"
+                },
+                {
+                    "id": "ef3f398e-e77c-4599-b21c-b3ac37478e27",
+                    "event": "show-liked",
+                    "showId": "s3",
+                    "eventDate": "17-10-2023 10:56:45.861 Europe/Amsterdam"
+                },
+                {
+                    "id": "fc7403a1-90ea-4465-a064-3e34d5b8da2c",
+                    "event": "stream-finished",
+                    "showId": "s7",
+                    "eventDate": "17-10-2023 10:56:47.887 Europe/Amsterdam"
+                },
+                {
+                    "id": "0424241d-d031-4bfb-bd9f-fea733b0c2ca",
+                    "event": "stream-finished",
+                    "showId": "s5",
+                    "eventDate": "17-10-2023 10:56:54.949 Europe/Amsterdam"
+                },
+                {
+                    "id": "1656a578-3143-4977-bf4e-4ee6c6a957dd",
+                    "event": "show-liked",
+                    "showId": "s7",
+                    "eventDate": "17-10-2023 10:56:58.568 Europe/Amsterdam"
+                }
+            ]
+        },
+        {
+            "id": 18,
+            "age": 30,
+            "firstName": "Leontyne",
+            "lastName": "Tuting",
+            "executedEventTypes": [
+                "stream-started",
+                "stream-finished"
+            ],
+            "executedEvents": [
+                {
+                    "id": "1897c697-666d-496c-8f65-995b888fe4a7",
+                    "event": "stream-started",
+                    "showId": "s10",
+                    "eventDate": "17-10-2023 10:56:43.833 Europe/Amsterdam"
+                },
+                {
+                    "id": "69203d8c-8233-4ec2-9afb-233155baeafe",
+                    "event": "stream-finished",
+                    "showId": "s10",
+                    "eventDate": "17-10-2023 10:56:44.891 Europe/Amsterdam"
+                },
+                {
+                    "id": "b7e31073-c55b-42b7-ab09-5229f49b75ac",
+                    "event": "stream-started",
+                    "showId": "s6",
+                    "eventDate": "17-10-2023 10:56:52.919 Europe/Amsterdam"
+                },
+                {
+                    "id": "e0c06238-67a7-4a9a-9d6c-c8a990e201f9",
+                    "event": "stream-started",
+                    "showId": "s164",
+                    "eventDate": "17-10-2023 10:56:53.007 Europe/Amsterdam"
+                }
+            ]
+        },
+        {
+            "id": 19,
+            "age": 54,
+            "firstName": "Micheal",
+            "lastName": "Gilsthorpe",
+            "executedEventTypes": [
+                "stream-interrupted",
+                "stream-finished",
+                "stream-started"
+            ],
+            "executedEvents": [
+                {
+                    "id": "b3d55ac4-30c5-4ea0-8bed-69fb9fcf9327",
+                    "event": "stream-interrupted",
+                    "showId": "s6",
+                    "eventDate": "17-10-2023 12:56:55.348 Europe/Amsterdam"
+                },
+                {
+                    "id": "532aa4f5-76b7-4610-aafc-ce6a9190ff44",
+                    "event": "stream-finished",
+                    "showId": "s3",
+                    "eventDate": "17-10-2023 12:56:58.160 Europe/Amsterdam"
+                },
+                {
+                    "id": "c326c372-c050-4a16-a4ba-3336b9e56bc5",
+                    "event": "stream-started",
+                    "showId": "s10",
+                    "eventDate": "17-10-2023 12:56:42.779 Europe/Amsterdam"
+                },
+                {
+                    "id": "a045de26-0656-46f4-b4b3-17849681ca4f",
+                    "event": "stream-finished",
+                    "showId": "s2",
+                    "eventDate": "17-10-2023 12:56:55.037 Europe/Amsterdam"
+                },
+                {
+                    "id": "c6740be1-135f-4702-a96b-8a9b3d6c9b04",
+                    "event": "stream-started",
+                    "showId": "s9",
+                    "eventDate": "17-10-2023 12:56:55.478 Europe/Amsterdam"
+                }
+            ]
+        },
+        {
+            "id": 20,
+            "age": 18,
+            "firstName": "Joceline",
+            "lastName": "Morden",
+            "executedEventTypes": [
+                "stream-started",
+                "stream-finished"
+            ],
+            "executedEvents": [
+                {
+                    "id": "ce4b9d56-07c5-424d-884d-99cb4440d92a",
+                    "event": "stream-started",
+                    "showId": "s2",
+                    "eventDate": "17-10-2023 10:56:45.505 Europe/Amsterdam"
+                },
+                {
+                    "id": "13de67f9-399e-4fe6-b87a-81b6c3d0a004",
+                    "event": "stream-started",
+                    "showId": "s6",
+                    "eventDate": "17-10-2023 10:56:42.604 Europe/Amsterdam"
+                },
+                {
+                    "id": "7ee749f2-f347-42ab-97ac-274f5d3cdb29",
+                    "event": "stream-started",
+                    "showId": "s9",
+                    "eventDate": "17-10-2023 10:56:44.273 Europe/Amsterdam"
+                },
+                {
+                    "id": "fd9586a2-bc30-4fe8-bc65-76bb2ab6689d",
+                    "event": "stream-finished",
+                    "showId": "s10",
+                    "eventDate": "17-10-2023 10:56:46.830 Europe/Amsterdam"
+                },
+                {
+                    "id": "ad09dbd1-9f13-4534-b2d3-101e97de909c",
+                    "event": "stream-started",
+                    "showId": "s8",
+                    "eventDate": "17-10-2023 10:56:47.093 Europe/Amsterdam"
+                },
+                {
+                    "id": "f4573e1b-9edf-4285-8b20-fd982888289b",
+                    "event": "stream-started",
+                    "showId": "s1242",
+                    "eventDate": "17-10-2023 10:56:48.771 Europe/Amsterdam"
+                },
+                {
+                    "id": "ecef20ad-ac18-4986-9b2c-bcf266475f44",
+                    "event": "stream-started",
+                    "showId": "s7",
+                    "eventDate": "17-10-2023 10:56:52.036 Europe/Amsterdam"
+                },
+                {
+                    "id": "fb1af656-3d47-4a4c-a406-ce4349607d7b",
+                    "event": "stream-started",
+                    "showId": "s8",
+                    "eventDate": "17-10-2023 10:56:56.802 Europe/Amsterdam"
+                },
+                {
+                    "id": "e5b4d3cc-f089-41cc-a875-83341635950c",
+                    "event": "stream-started",
+                    "showId": "s8",
+                    "eventDate": "17-10-2023 10:56:59.716 Europe/Amsterdam"
+                }
+            ]
+        },
+        {
+            "id": 21,
+            "age": 59,
+            "firstName": "Colene",
+            "lastName": "Hargie",
+            "executedEventTypes": [
+                "stream-started",
+                "show-liked",
+                "stream-finished"
+            ],
+            "executedEvents": [
+                {
+                    "id": "33b7c0a0-0061-4f44-badb-49f873520e5b",
+                    "event": "stream-started",
+                    "showId": "s8",
+                    "eventDate": "17-10-2023 10:56:43.130 Europe/Amsterdam"
+                },
+                {
+                    "id": "66bf38cb-a96c-45a7-a70e-bd411dffef81",
+                    "event": "show-liked",
+                    "showId": "s3",
+                    "eventDate": "17-10-2023 10:56:51.682 Europe/Amsterdam"
+                },
+                {
+                    "id": "4e043973-f013-4e17-9c89-392d73a6180a",
+                    "event": "stream-finished",
+                    "showId": "s8",
+                    "eventDate": "17-10-2023 10:56:54.861 Europe/Amsterdam"
+                },
+                {
+                    "id": "a4ce6507-3c7b-4b00-be7c-6d43f3b8c20c",
+                    "event": "stream-finished",
+                    "showId": "s7",
+                    "eventDate": "17-10-2023 10:56:55.743 Europe/Amsterdam"
+                },
+                {
+                    "id": "e97448e1-e7fa-4b6f-91ab-f89190e92034",
+                    "event": "stream-started",
+                    "showId": "s5",
+                    "eventDate": "17-10-2023 10:56:57.243 Europe/Amsterdam"
+                }
+            ]
+        },
+        {
+            "id": 22,
+            "age": 48,
+            "firstName": "Sytac",
+            "lastName": "Blumson",
+            "executedEventTypes": [
+                "stream-finished",
+                "stream-started"
+            ],
+            "executedEvents": [
+                {
+                    "id": "3e2f024a-c6c4-4d4f-9a21-766b0a94a1ae",
+                    "event": "stream-finished",
+                    "showId": "s2",
+                    "eventDate": "17-10-2023 11:56:57.821 Europe/Amsterdam"
+                },
+                {
+                    "id": "bedeb27d-99b5-469e-8760-f5ff1ece9f77",
+                    "event": "stream-finished",
+                    "showId": "s406",
+                    "eventDate": "17-10-2023 11:56:58.923 Europe/Amsterdam"
+                },
+                {
+                    "id": "3918b74f-19eb-453b-a54d-0c01832b3f6a",
+                    "event": "stream-started",
+                    "showId": "s7",
+                    "eventDate": "17-10-2023 11:56:56.360 Europe/Amsterdam"
+                }
+            ]
+        },
+        {
+            "id": 23,
+            "age": 33,
+            "firstName": "Karalee",
+            "lastName": "Pouton",
+            "executedEventTypes": [
+                "stream-started",
+                "stream-finished"
+            ],
+            "executedEvents": [
+                {
+                    "id": "a60b8cfb-2066-4629-a919-4968ebc816fb",
+                    "event": "stream-started",
+                    "showId": "s2",
+                    "eventDate": "17-10-2023 10:56:42.693 Europe/Amsterdam"
+                },
+                {
+                    "id": "56c696c4-6de4-4882-84b3-abee22de65e8",
+                    "event": "stream-started",
+                    "showId": "s9",
+                    "eventDate": "17-10-2023 10:56:46.798 Europe/Amsterdam"
+                },
+                {
+                    "id": "15d71533-fa44-45f7-833f-e819f918a481",
+                    "event": "stream-finished",
+                    "showId": "s2",
+                    "eventDate": "17-10-2023 10:56:42.166 Europe/Amsterdam"
+                },
+                {
+                    "id": "ecee28c5-299c-4c56-a3c8-11c51be55877",
+                    "event": "stream-finished",
+                    "showId": "s1730",
+                    "eventDate": "17-10-2023 10:56:45.067 Europe/Amsterdam"
+                },
+                {
+                    "id": "03b720b0-317c-41f8-9c57-8f9a6253d148",
+                    "event": "stream-finished",
+                    "showId": "s1603",
+                    "eventDate": "17-10-2023 10:56:48.240 Europe/Amsterdam"
+                },
+                {
+                    "id": "57ec664b-74b1-46bd-b68c-f4087883f950",
+                    "event": "stream-started",
+                    "showId": "s10",
+                    "eventDate": "17-10-2023 10:56:48.683 Europe/Amsterdam"
+                },
+                {
+                    "id": "778180a6-3dc8-4352-a85d-b0201d88093a",
+                    "event": "stream-started",
+                    "showId": "s6",
+                    "eventDate": "17-10-2023 10:56:49.300 Europe/Amsterdam"
+                },
+                {
+                    "id": "9de172b5-07cf-4f90-a17e-5bc842183e9c",
+                    "event": "stream-started",
+                    "showId": "s3",
+                    "eventDate": "17-10-2023 10:56:50.976 Europe/Amsterdam"
+                }
+            ]
+        },
+        {
+            "id": 24,
+            "age": 45,
+            "firstName": "Eugenio",
+            "lastName": "Bresner",
+            "executedEventTypes": [
+                "stream-finished",
+                "show-liked",
+                "stream-started"
+            ],
+            "executedEvents": [
+                {
+                    "id": "e6bbaf7d-29af-4995-b200-177939f1454e",
+                    "event": "stream-finished",
+                    "showId": "s5",
+                    "eventDate": "17-10-2023 01:56:49.212 Europe/Amsterdam"
+                },
+                {
+                    "id": "05df6759-02f6-4a76-810f-759724b2b114",
+                    "event": "stream-finished",
+                    "showId": "s3",
+                    "eventDate": "17-10-2023 01:56:53.449 Europe/Amsterdam"
+                },
+                {
+                    "id": "ee830579-c649-4c83-858d-a28f9c1fcee9",
+                    "event": "stream-finished",
+                    "showId": "s1524",
+                    "eventDate": "17-10-2023 01:56:53.891 Europe/Amsterdam"
+                },
+                {
+                    "id": "7b706972-ea3b-4c1f-bdde-05fbc068d021",
+                    "event": "show-liked",
+                    "showId": "s5",
+                    "eventDate": "17-10-2023 01:56:54.067 Europe/Amsterdam"
+                },
+                {
+                    "id": "6e732ec0-d030-48aa-8175-2fe910752786",
+                    "event": "stream-started",
+                    "showId": "s10",
+                    "eventDate": "17-10-2023 01:56:57.772 Europe/Amsterdam"
+                }
+            ]
+        },
+        {
+            "id": 25,
+            "age": 35,
+            "firstName": "Elisabet",
+            "lastName": "Gwilt",
+            "executedEventTypes": [
+                "stream-started"
+            ],
+            "executedEvents": [
+                {
+                    "id": "41681abf-5c5a-4913-b2c5-b464e0f68a72",
+                    "event": "stream-started",
+                    "showId": "s9",
+                    "eventDate": "17-10-2023 09:56:57.507 Europe/Amsterdam"
+                },
+                {
+                    "id": "b1709d32-d965-4c9a-8eee-86b8db8f29d7",
+                    "event": "stream-started",
+                    "showId": "s1202",
+                    "eventDate": "17-10-2023 09:56:59.627 Europe/Amsterdam"
+                }
+            ]
+        },
+        {
+            "id": 26,
+            "age": 19,
+            "firstName": "Travis",
+            "lastName": "Stivani",
+            "executedEventTypes": [
+                "stream-finished",
+                "stream-started",
+                "show-liked"
+            ],
+            "executedEvents": [
+                {
+                    "id": "65b5ff69-06b0-475f-84be-525de07f5247",
+                    "event": "stream-finished",
+                    "showId": "s5",
+                    "eventDate": "17-10-2023 15:56:47.622 Europe/Amsterdam"
+                },
+                {
+                    "id": "cd674564-3ca4-47d5-a226-d7bf9fe8c19a",
+                    "event": "stream-started",
+                    "showId": "s9",
+                    "eventDate": "17-10-2023 15:56:48.328 Europe/Amsterdam"
+                },
+                {
+                    "id": "c9993919-28d0-49d6-9363-eaec6b2b17b5",
+                    "event": "show-liked",
+                    "showId": "s10",
+                    "eventDate": "17-10-2023 15:56:50.448 Europe/Amsterdam"
+                },
+                {
+                    "id": "3d08cfa9-1518-41fb-9ebe-6c13cdb3de50",
+                    "event": "stream-finished",
+                    "showId": "s4",
+                    "eventDate": "17-10-2023 15:56:56.097 Europe/Amsterdam"
+                }
+            ]
+        },
+        {
+            "id": 27,
+            "age": 26,
+            "firstName": "Jobi",
+            "lastName": "McPeice",
+            "executedEventTypes": [
+                "stream-finished",
+                "stream-started",
+                "show-liked"
+            ],
+            "executedEvents": [
+                {
+                    "id": "a698cc0f-9b8f-4475-8c8a-64f1c185e126",
+                    "event": "stream-finished",
+                    "showId": "s1",
+                    "eventDate": "17-10-2023 10:56:55.616 Europe/Amsterdam"
+                },
+                {
+                    "id": "78a81237-1588-45e4-8808-9918f7215f6d",
+                    "event": "stream-finished",
+                    "showId": "s8",
+                    "eventDate": "17-10-2023 10:56:45.774 Europe/Amsterdam"
+                },
+                {
+                    "id": "7104bdd5-ea03-45c9-a44e-1fada044df42",
+                    "event": "stream-started",
+                    "showId": "s6",
+                    "eventDate": "17-10-2023 10:56:49.477 Europe/Amsterdam"
+                },
+                {
+                    "id": "68015e06-50f2-4178-a36b-b8f1493bf502",
+                    "event": "stream-finished",
+                    "showId": "s6",
+                    "eventDate": "17-10-2023 10:56:51.418 Europe/Amsterdam"
+                },
+                {
+                    "id": "03aac883-9713-4c5d-964f-1999d4685195",
+                    "event": "show-liked",
+                    "showId": "s5",
+                    "eventDate": "17-10-2023 10:56:53.183 Europe/Amsterdam"
+                },
+                {
+                    "id": "42285492-f33f-4d23-bca2-5ee2bd4f1e41",
+                    "event": "stream-finished",
+                    "showId": "s9",
+                    "eventDate": "17-10-2023 10:56:59.362 Europe/Amsterdam"
+                },
+                {
+                    "id": "b298abb4-7b06-4ab6-8b44-1aae1d500493",
+                    "event": "stream-finished",
+                    "showId": "s7",
+                    "eventDate": "17-10-2023 10:56:59.804 Europe/Amsterdam"
+                }
+            ]
+        },
+        {
+            "id": 28,
+            "age": 29,
+            "firstName": "Malinda",
+            "lastName": "Brasier",
+            "executedEventTypes": [
+                "stream-finished",
+                "stream-started",
+                "show-liked"
+            ],
+            "executedEvents": [
+                {
+                    "id": "0925138c-32b2-4348-8e95-0c8518670060",
+                    "event": "stream-finished",
+                    "showId": "s1",
+                    "eventDate": "17-10-2023 10:56:52.536 Europe/Amsterdam"
+                },
+                {
+                    "id": "9d630811-38aa-4e36-90a8-2256024f8b47",
+                    "event": "stream-started",
+                    "showId": "s5",
+                    "eventDate": "17-10-2023 10:56:43.744 Europe/Amsterdam"
+                },
+                {
+                    "id": "b5c4b186-300c-4207-a45b-92b72fee2957",
+                    "event": "show-liked",
+                    "showId": "s1",
+                    "eventDate": "17-10-2023 10:56:46.566 Europe/Amsterdam"
+                },
+                {
+                    "id": "33c29c46-81fc-4a33-a0d2-af5415ab0b52",
+                    "event": "stream-finished",
+                    "showId": "s5",
+                    "eventDate": "17-10-2023 10:56:49.742 Europe/Amsterdam"
+                },
+                {
+                    "id": "f3eb3feb-090b-4b81-8bbb-09a0d109097f",
+                    "event": "show-liked",
+                    "showId": "s941",
+                    "eventDate": "17-10-2023 10:56:53.360 Europe/Amsterdam"
+                },
+                {
+                    "id": "da55ad05-f378-4eb5-ad81-48773bb39c61",
+                    "event": "stream-finished",
+                    "showId": "s8",
+                    "eventDate": "17-10-2023 10:56:56.714 Europe/Amsterdam"
+                },
+                {
+                    "id": "8bf29660-7666-4620-a0fc-193f51bf7b22",
+                    "event": "stream-finished",
+                    "showId": "s1",
+                    "eventDate": "17-10-2023 10:56:58.922 Europe/Amsterdam"
+                }
+            ]
+        },
+        {
+            "id": 29,
+            "age": 51,
+            "firstName": "Vivia",
+            "lastName": "Weatherhill",
+            "executedEventTypes": [
+                "stream-started",
+                "stream-finished"
+            ],
+            "executedEvents": [
+                {
+                    "id": "753beea6-bccd-4238-9d30-85b1a52cad3e",
+                    "event": "stream-started",
+                    "showId": "s7",
+                    "eventDate": "17-10-2023 10:56:56.754 Europe/Amsterdam"
+                },
+                {
+                    "id": "800b63bd-18c4-48bb-98c5-84c6cac7ceb1",
+                    "event": "stream-started",
+                    "showId": "s8",
+                    "eventDate": "17-10-2023 10:56:41.902 Europe/Amsterdam"
+                },
+                {
+                    "id": "bd594f9e-0f91-4a61-be63-5ce78ad4a604",
+                    "event": "stream-finished",
+                    "showId": "s9",
+                    "eventDate": "17-10-2023 10:56:42.516 Europe/Amsterdam"
+                },
+                {
+                    "id": "85313448-e75a-4117-8ffd-e55c0571ba9d",
+                    "event": "stream-started",
+                    "showId": "s9",
+                    "eventDate": "17-10-2023 10:56:50.184 Europe/Amsterdam"
+                },
+                {
+                    "id": "029cfe5e-1f67-4616-822c-6fc77f42a8c6",
+                    "event": "stream-started",
+                    "showId": "s9",
+                    "eventDate": "17-10-2023 10:56:53.538 Europe/Amsterdam"
+                },
+                {
+                    "id": "bd360a26-8070-43dd-827a-e3974300fe49",
+                    "event": "stream-started",
+                    "showId": "s193",
+                    "eventDate": "17-10-2023 10:56:59.098 Europe/Amsterdam"
+                }
+            ]
+        },
+        {
+            "id": 30,
+            "age": 22,
+            "firstName": "Daven",
+            "lastName": "Capelin",
+            "executedEventTypes": [
+                "show-liked",
+                "stream-started",
+                "stream-finished"
+            ],
+            "executedEvents": [
+                {
+                    "id": "50a818d2-46b9-4722-b8af-3d341e490ea8",
+                    "event": "show-liked",
+                    "showId": "s6",
+                    "eventDate": "17-10-2023 10:56:45.685 Europe/Amsterdam"
+                },
+                {
+                    "id": "c05adeb9-58cf-42bc-b82c-3f5a6fac9a6b",
+                    "event": "stream-started",
+                    "showId": "s1670",
+                    "eventDate": "17-10-2023 10:56:47.181 Europe/Amsterdam"
+                },
+                {
+                    "id": "a65b75e6-d5b9-4f93-a0c0-f2bee8fcd6e9",
+                    "event": "stream-finished",
+                    "showId": "s5",
+                    "eventDate": "17-10-2023 10:56:49.124 Europe/Amsterdam"
+                },
+                {
+                    "id": "9a678c79-4daa-4865-820d-7409428b0434",
+                    "event": "stream-finished",
+                    "showId": "s10",
+                    "eventDate": "17-10-2023 10:56:51.242 Europe/Amsterdam"
+                },
+                {
+                    "id": "6c3992bc-baf4-461b-94f0-93bd2ead1506",
+                    "event": "show-liked",
+                    "showId": "s6",
+                    "eventDate": "17-10-2023 10:56:57.067 Europe/Amsterdam"
+                }
+            ]
+        },
+        {
+            "id": 31,
+            "age": 57,
+            "firstName": "Arley",
+            "lastName": "Cairney",
+            "executedEventTypes": [
+                "stream-started",
+                "stream-finished"
+            ],
+            "executedEvents": [
+                {
+                    "id": "4b89775c-9ced-4708-8c95-31a38660c0ae",
+                    "event": "stream-started",
+                    "showId": "s9",
+                    "eventDate": "17-10-2023 09:56:49.002 Europe/Amsterdam"
+                },
+                {
+                    "id": "b5235caf-5f84-42c4-9364-7cfec10cd08f",
+                    "event": "stream-finished",
+                    "showId": "s5",
+                    "eventDate": "17-10-2023 09:56:53.272 Europe/Amsterdam"
+                }
+            ]
+        },
+        {
+            "id": 32,
+            "age": 61,
+            "firstName": "Aimil",
+            "lastName": "Munning",
+            "executedEventTypes": [
+                "show-liked",
+                "stream-finished",
+                "stream-started"
+            ],
+            "executedEvents": [
+                {
+                    "id": "b2a821c6-02d1-45d9-9cf1-307a2878a007",
+                    "event": "show-liked",
+                    "showId": "s7",
+                    "eventDate": "17-10-2023 07:56:43.921 Europe/Amsterdam"
+                },
+                {
+                    "id": "a28ebe95-0f89-4095-b810-203b21723f1e",
+                    "event": "stream-finished",
+                    "showId": "s5",
+                    "eventDate": "17-10-2023 07:56:45.243 Europe/Amsterdam"
+                },
+                {
+                    "id": "ab94a122-89c3-4d04-82dd-e124a111687a",
+                    "event": "stream-started",
+                    "showId": "s5",
+                    "eventDate": "17-10-2023 07:56:53.095 Europe/Amsterdam"
+                },
+                {
+                    "id": "b7e74e9f-dd89-4b2c-aef1-76c98a08e043",
+                    "event": "stream-started",
+                    "showId": "s1",
+                    "eventDate": "17-10-2023 07:56:54.772 Europe/Amsterdam"
+                }
+            ]
+        },
+        {
+            "id": 33,
+            "age": 23,
+            "firstName": "Denyse",
+            "lastName": "Caselli",
+            "executedEventTypes": [
+                "stream-finished",
+                "stream-started"
+            ],
+            "executedEvents": [
+                {
+                    "id": "c5631524-9e51-409f-98cb-368e3faf7ecc",
+                    "event": "stream-finished",
+                    "showId": "s9",
+                    "eventDate": "17-10-2023 10:56:51.207 Europe/Amsterdam"
+                },
+                {
+                    "id": "bd75a607-5446-42e7-b2ce-186b17edf815",
+                    "event": "stream-finished",
+                    "showId": "s1",
+                    "eventDate": "17-10-2023 10:56:52.654 Europe/Amsterdam"
+                },
+                {
+                    "id": "160d226c-be44-4ab1-97ae-15b6a7bee59e",
+                    "event": "stream-finished",
+                    "showId": "s3",
+                    "eventDate": "17-10-2023 10:56:54.508 Europe/Amsterdam"
+                },
+                {
+                    "id": "55ac1586-d43a-48f4-bf31-5d593d5ec332",
+                    "event": "stream-started",
+                    "showId": "s10",
+                    "eventDate": "17-10-2023 10:56:57.596 Europe/Amsterdam"
+                },
+                {
+                    "id": "65658573-ce5f-4af5-90c7-183a6251153a",
+                    "event": "stream-finished",
+                    "showId": "s7",
+                    "eventDate": "17-10-2023 10:56:58.480 Europe/Amsterdam"
+                }
+            ]
+        },
+        {
+            "id": 34,
+            "age": 51,
+            "firstName": "Fayth",
+            "lastName": "Daintry",
+            "executedEventTypes": [
+                "stream-started",
+                "stream-finished",
+                "show-liked"
+            ],
+            "executedEvents": [
+                {
+                    "id": "d54dc975-18de-403e-84a7-e4216b4bc506",
+                    "event": "stream-started",
+                    "showId": "s7",
+                    "eventDate": "17-10-2023 10:56:53.942 Europe/Amsterdam"
+                },
+                {
+                    "id": "defae6f4-9c95-4caa-9eb1-8aec3f05f661",
+                    "event": "stream-finished",
+                    "showId": "s381",
+                    "eventDate": "17-10-2023 10:56:46.214 Europe/Amsterdam"
+                },
+                {
+                    "id": "47cc230d-4552-4942-8ccc-0696d4bb3f2e",
+                    "event": "show-liked",
+                    "showId": "s5",
+                    "eventDate": "17-10-2023 10:56:47.534 Europe/Amsterdam"
+                },
+                {
+                    "id": "2ceadda3-cf8e-4d00-aca5-395dfe1ba384",
+                    "event": "stream-started",
+                    "showId": "s3",
+                    "eventDate": "17-10-2023 10:56:49.654 Europe/Amsterdam"
+                },
+                {
+                    "id": "50ba528c-bd89-403e-bc32-c9fdd1e67a5e",
+                    "event": "stream-started",
+                    "showId": "s7",
+                    "eventDate": "17-10-2023 10:56:51.505 Europe/Amsterdam"
+                },
+                {
+                    "id": "ac799a88-4662-4829-9c86-dc2b187fb39b",
+                    "event": "stream-started",
+                    "showId": "s388",
+                    "eventDate": "17-10-2023 10:56:54.419 Europe/Amsterdam"
+                },
+                {
+                    "id": "2385b22c-1a76-4933-abf5-3d9c509d5f9f",
+                    "event": "stream-started",
+                    "showId": "s6",
+                    "eventDate": "17-10-2023 10:56:58.745 Europe/Amsterdam"
+                }
+            ]
+        },
+        {
+            "id": 35,
+            "age": 46,
+            "firstName": "Hasheem",
+            "lastName": "Roon",
+            "executedEventTypes": [
+                "stream-started",
+                "show-liked"
+            ],
+            "executedEvents": [
+                {
+                    "id": "543921bb-95d6-4691-92ea-2cce3c307f70",
+                    "event": "stream-started",
+                    "showId": "s4",
+                    "eventDate": "17-10-2023 08:26:49.830 Europe/Amsterdam"
+                },
+                {
+                    "id": "7ead7649-8b32-495b-a2a0-1e957b302f68",
+                    "event": "show-liked",
+                    "showId": "s3",
+                    "eventDate": "17-10-2023 08:26:51.771 Europe/Amsterdam"
+                },
+                {
+                    "id": "0cbd25b5-5b93-4a7a-b7af-8ed52ba7282b",
+                    "event": "show-liked",
+                    "showId": "s6",
+                    "eventDate": "17-10-2023 08:26:58.125 Europe/Amsterdam"
+                },
+                {
+                    "id": "e6c4e18e-c74f-4647-8ed4-57c03f9ef823",
+                    "event": "stream-started",
+                    "showId": "s5",
+                    "eventDate": "17-10-2023 08:26:59.539 Europe/Amsterdam"
+                }
+            ]
+        },
+        {
+            "id": 36,
+            "age": 30,
+            "firstName": "Glennie",
+            "lastName": "Moreman",
+            "executedEventTypes": [
+                "stream-started"
+            ],
+            "executedEvents": [
+                {
+                    "id": "31796636-e8f0-4331-be01-634c95ae2264",
+                    "event": "stream-started",
+                    "showId": "s1",
+                    "eventDate": "17-10-2023 10:56:56.625 Europe/Amsterdam"
+                }
+            ]
+        },
+        {
+            "id": 37,
+            "age": 20,
+            "firstName": "Colin",
+            "lastName": "Trench",
+            "executedEventTypes": [
+                "stream-started",
+                "show-liked",
+                "stream-finished"
+            ],
+            "executedEvents": [
+                {
+                    "id": "f6c24880-deb6-4e60-8032-334306861807",
+                    "event": "stream-started",
+                    "showId": "s196",
+                    "eventDate": "17-10-2023 10:56:51.129 Europe/Amsterdam"
+                },
+                {
+                    "id": "71884abb-22d2-4bae-b591-4f15e6d63af4",
+                    "event": "show-liked",
+                    "showId": "s10",
+                    "eventDate": "17-10-2023 10:56:43.569 Europe/Amsterdam"
+                },
+                {
+                    "id": "ccbc4d53-5f13-47e7-aede-3df6ef8d5b8b",
+                    "event": "stream-finished",
+                    "showId": "s3",
+                    "eventDate": "17-10-2023 10:56:46.302 Europe/Amsterdam"
+                },
+                {
+                    "id": "aacbfde1-d332-48f1-bc63-5b0f65b7d3e9",
+                    "event": "stream-finished",
+                    "showId": "s9",
+                    "eventDate": "17-10-2023 10:56:46.654 Europe/Amsterdam"
+                }
+            ]
+        },
+        {
+            "id": 38,
+            "age": 59,
+            "firstName": "Heriberto",
+            "lastName": "Applewhaite",
+            "executedEventTypes": [
+                "stream-started"
+            ],
+            "executedEvents": [
+                {
+                    "id": "7c8f3ddb-0acc-4469-b5fe-ebca89374d24",
+                    "event": "stream-started",
+                    "showId": "s5",
+                    "eventDate": "17-10-2023 10:56:43.481 Europe/Amsterdam"
+                },
+                {
+                    "id": "05438b88-fadf-4add-86e8-219d6b37104d",
+                    "event": "stream-started",
+                    "showId": "s1",
+                    "eventDate": "17-10-2023 10:56:58.391 Europe/Amsterdam"
+                }
+            ]
+        },
+        {
+            "id": 39,
+            "age": 49,
+            "firstName": "Denny",
+            "lastName": "Woehler",
+            "executedEventTypes": [
+                "show-liked",
+                "stream-started",
+                "stream-finished"
+            ],
+            "executedEvents": [
+                {
+                    "id": "1252c5f2-b3fb-43da-af17-02f3db52f002",
+                    "event": "show-liked",
+                    "showId": "s4",
+                    "eventDate": "17-10-2023 01:56:42.078 Europe/Amsterdam"
+                },
+                {
+                    "id": "b0faa9e4-dc91-4756-b150-fbe76197fa1b",
+                    "event": "stream-started",
+                    "showId": "s6",
+                    "eventDate": "17-10-2023 01:56:45.155 Europe/Amsterdam"
+                },
+                {
+                    "id": "63eb5fc2-f48b-4ec4-b87b-a66af2146537",
+                    "event": "stream-finished",
+                    "showId": "s2",
+                    "eventDate": "17-10-2023 01:56:47.799 Europe/Amsterdam"
+                },
+                {
+                    "id": "f2990e87-78e5-4f14-8324-a90ab492eb59",
+                    "event": "show-liked",
+                    "showId": "s7",
+                    "eventDate": "17-10-2023 01:56:48.152 Europe/Amsterdam"
+                },
+                {
+                    "id": "477cb93d-7410-48a3-a527-543cd09400bf",
+                    "event": "stream-started",
+                    "showId": "s3",
+                    "eventDate": "17-10-2023 01:56:50.095 Europe/Amsterdam"
+                },
+                {
+                    "id": "5230184b-8eb9-4c29-9d99-6ee6f1f8006e",
+                    "event": "stream-started",
+                    "showId": "s9",
+                    "eventDate": "17-10-2023 01:56:51.153 Europe/Amsterdam"
+                },
+                {
+                    "id": "40a93868-99bd-4a09-9a40-2847c47ccc43",
+                    "event": "stream-finished",
+                    "showId": "s1282",
+                    "eventDate": "17-10-2023 01:56:54.243 Europe/Amsterdam"
+                },
+                {
+                    "id": "b1dacf39-a183-4cc8-927f-bc24a899896c",
+                    "event": "stream-started",
+                    "showId": "s1",
+                    "eventDate": "17-10-2023 01:56:56.008 Europe/Amsterdam"
+                },
+                {
+                    "id": "9a1f73df-378f-4776-a078-85c9886c435d",
+                    "event": "show-liked",
+                    "showId": "s7",
+                    "eventDate": "17-10-2023 01:56:56.537 Europe/Amsterdam"
+                }
+            ]
+        },
+        {
+            "id": 40,
+            "age": 24,
+            "firstName": "Gordy",
+            "lastName": "Nadin",
+            "executedEventTypes": [
+                "stream-finished",
+                "stream-started",
+                "show-liked"
+            ],
+            "executedEvents": [
+                {
+                    "id": "8f8f4c4f-2761-4fad-9ea2-dcc56374ee51",
+                    "event": "stream-finished",
+                    "showId": "s8",
+                    "eventDate": "17-10-2023 10:56:41.283 Europe/Amsterdam"
+                },
+                {
+                    "id": "a08cc0fc-5be0-47a2-b547-235facd996ad",
+                    "event": "stream-started",
+                    "showId": "s5",
+                    "eventDate": "17-10-2023 10:56:41.550 Europe/Amsterdam"
+                },
+                {
+                    "id": "63131e2d-0ce1-4c47-b66f-8485ca53e689",
+                    "event": "show-liked",
+                    "showId": "s8",
+                    "eventDate": "17-10-2023 10:56:41.638 Europe/Amsterdam"
+                },
+                {
+                    "id": "fe29b5de-7f88-4f73-a781-feec1bbba90b",
+                    "event": "show-liked",
+                    "showId": "s1",
+                    "eventDate": "17-10-2023 10:56:57.861 Europe/Amsterdam"
+                }
+            ]
+        },
+        {
+            "id": 41,
+            "age": 37,
+            "firstName": "Ilyssa",
+            "lastName": "Lantuff",
+            "executedEventTypes": [
+                "stream-started",
+                "stream-finished",
+                "stream-interrupted"
+            ],
+            "executedEvents": [
+                {
+                    "id": "1bca5a4f-da2a-4c84-9df8-86d7afdcf622",
+                    "event": "stream-started",
+                    "showId": "s7",
+                    "eventDate": "17-10-2023 01:56:45.596 Europe/Amsterdam"
+                },
+                {
+                    "id": "2d80ac3c-bc68-44f5-bff5-623a3d5a1f5e",
+                    "event": "stream-started",
+                    "showId": "s10",
+                    "eventDate": "17-10-2023 01:56:47.446 Europe/Amsterdam"
+                },
+                {
+                    "id": "956f946b-e6a7-4f69-9ed2-19e0d922d956",
+                    "event": "stream-finished",
+                    "showId": "s1",
+                    "eventDate": "17-10-2023 01:56:50.360 Europe/Amsterdam"
+                },
+                {
+                    "id": "8b15f16d-d28a-4196-b1ab-af7ed03119ed",
+                    "event": "stream-started",
+                    "showId": "s8",
+                    "eventDate": "17-10-2023 01:56:51.330 Europe/Amsterdam"
+                },
+                {
+                    "id": "9b63a3db-d548-4e36-ac6a-e805a530d7a5",
+                    "event": "stream-interrupted",
+                    "showId": "s445",
+                    "eventDate": "17-10-2023 01:56:56.979 Europe/Amsterdam"
+                }
+            ]
+        },
+        {
+            "id": 42,
+            "age": 59,
+            "firstName": "Elsey",
+            "lastName": "Flahy",
+            "executedEventTypes": [
+                "stream-finished",
+                "show-liked"
+            ],
+            "executedEvents": [
+                {
+                    "id": "95b14f67-f759-4af4-bfa4-a2e2c063d46f",
+                    "event": "stream-finished",
+                    "showId": "s10",
+                    "eventDate": "17-10-2023 10:56:43.042 Europe/Amsterdam"
+                },
+                {
+                    "id": "8bd82194-e12a-4ec5-b414-4a9d2179cff7",
+                    "event": "show-liked",
+                    "showId": "s1",
+                    "eventDate": "17-10-2023 10:56:58.037 Europe/Amsterdam"
+                }
+            ]
+        },
+        {
+            "id": 43,
+            "age": 22,
+            "firstName": "Donica",
+            "lastName": "Jouhan",
+            "executedEventTypes": [
+                "stream-started",
+                "show-liked",
+                "stream-finished"
+            ],
+            "executedEvents": [
+                {
+                    "id": "8c1fcbe9-4727-406a-b12d-fa4f97c5506d",
+                    "event": "stream-started",
+                    "showId": "s264",
+                    "eventDate": "17-10-2023 01:56:44.593 Europe/Amsterdam"
+                },
+                {
+                    "id": "afec5970-ee7c-4b64-8f07-55e1c91d608d",
+                    "event": "show-liked",
+                    "showId": "s4",
+                    "eventDate": "17-10-2023 01:56:54.513 Europe/Amsterdam"
+                },
+                {
+                    "id": "e9e9ddaa-f9cc-419c-8475-f97edeada7ff",
+                    "event": "show-liked",
+                    "showId": "s5",
+                    "eventDate": "17-10-2023 01:56:56.719 Europe/Amsterdam"
+                },
+                {
+                    "id": "df40284c-776d-4209-896e-efeb101deac3",
+                    "event": "stream-started",
+                    "showId": "s377",
+                    "eventDate": "17-10-2023 01:56:41.373 Europe/Amsterdam"
+                },
+                {
+                    "id": "8ebec60c-773a-40db-85d0-4525aed804d0",
+                    "event": "stream-started",
+                    "showId": "s9",
+                    "eventDate": "17-10-2023 01:56:44.097 Europe/Amsterdam"
+                },
+                {
+                    "id": "f41b571d-a318-4524-91bb-59f18f90190a",
+                    "event": "stream-finished",
+                    "showId": "s4",
+                    "eventDate": "17-10-2023 01:56:47.269 Europe/Amsterdam"
+                },
+                {
+                    "id": "24617655-ac10-43ad-832f-ef6b03a3d3c7",
+                    "event": "stream-started",
+                    "showId": "s10",
+                    "eventDate": "17-10-2023 01:56:47.358 Europe/Amsterdam"
+                },
+                {
+                    "id": "81ec8e16-7b77-4885-9003-be7ee4631052",
+                    "event": "show-liked",
+                    "showId": "s4",
+                    "eventDate": "17-10-2023 01:56:49.036 Europe/Amsterdam"
+                },
+                {
+                    "id": "7334b4c5-3aaa-4bd4-a6f7-0b3c8badbca2",
+                    "event": "stream-started",
+                    "showId": "s4",
+                    "eventDate": "17-10-2023 01:56:50.624 Europe/Amsterdam"
+                },
+                {
+                    "id": "1d535a52-c1a6-4f8d-80fe-16c865b9cac0",
+                    "event": "stream-finished",
+                    "showId": "s1",
+                    "eventDate": "17-10-2023 01:56:55.566 Europe/Amsterdam"
+                }
+            ]
+        },
+        {
+            "id": 44,
+            "age": 41,
+            "firstName": "Andras",
+            "lastName": "Boick",
+            "executedEventTypes": [
+                "show-liked",
+                "stream-finished"
+            ],
+            "executedEvents": [
+                {
+                    "id": "9e8d728b-0267-470c-8794-dbfeed5839db",
+                    "event": "show-liked",
+                    "showId": "s8",
+                    "eventDate": "17-10-2023 10:56:46.479 Europe/Amsterdam"
+                },
+                {
+                    "id": "ea75daa6-951a-4904-bbb8-75ecde6a1a1b",
+                    "event": "stream-finished",
+                    "showId": "s1",
+                    "eventDate": "17-10-2023 10:56:59.187 Europe/Amsterdam"
+                }
+            ]
+        },
+        {
+            "id": 45,
+            "age": 23,
+            "firstName": "Pablo",
+            "lastName": "Fawthorpe",
+            "executedEventTypes": [
+                "stream-started",
+                "show-liked",
+                "stream-finished"
+            ],
+            "executedEvents": [
+                {
+                    "id": "57b58f8d-e875-4af5-bd32-95062d1ec3cf",
+                    "event": "stream-started",
+                    "showId": "s10",
+                    "eventDate": "17-10-2023 10:56:53.411"
+                },
+                {
+                    "id": "c6fb05e7-0571-4d22-8e71-1d7c792428ba",
+                    "event": "show-liked",
+                    "showId": "s5",
+                    "eventDate": "17-10-2023 10:56:51.065"
+                },
+                {
+                    "id": "20d227e4-f351-44cb-af6d-23badba883a1",
+                    "event": "stream-finished",
+                    "showId": "s1724",
+                    "eventDate": "17-10-2023 10:56:52.301"
+                },
+                {
+                    "id": "139f9466-9467-487d-a455-a6458e856218",
+                    "event": "stream-finished",
+                    "showId": "s8",
+                    "eventDate": "17-10-2023 10:56:53.626"
+                },
+                {
+                    "id": "15ec5266-1a7c-4048-92a1-c32ccf283a4b",
+                    "event": "stream-started",
+                    "showId": "s5",
+                    "eventDate": "17-10-2023 10:56:56.891"
+                },
+                {
+                    "id": "d485f95a-8b0b-4295-ae1b-e4dae967efb5",
+                    "event": "stream-finished",
+                    "showId": "s2",
+                    "eventDate": "17-10-2023 10:56:57.331"
+                },
+                {
+                    "id": "6367386a-9594-4e9a-9405-8026ce39a28b",
+                    "event": "stream-finished",
+                    "showId": "s2",
+                    "eventDate": "17-10-2023 10:56:58.833"
+                }
+            ]
+        },
+        {
+            "id": 47,
+            "age": 38,
+            "firstName": "Baxy",
+            "lastName": "Rupp",
+            "executedEventTypes": [
+                "stream-started",
+                "show-liked",
+                "stream-finished"
+            ],
+            "executedEvents": [
+                {
+                    "id": "91155ab5-6ba1-4dec-8879-28d3604fc92f",
+                    "event": "stream-started",
+                    "showId": "s4",
+                    "eventDate": "17-10-2023 10:56:41.725 Europe/Amsterdam"
+                },
+                {
+                    "id": "c56e2ee6-9fa7-46f2-914b-90b50de21333",
+                    "event": "show-liked",
+                    "showId": "s1151",
+                    "eventDate": "17-10-2023 10:56:51.859 Europe/Amsterdam"
+                },
+                {
+                    "id": "396e7f1d-0ef7-496d-a4b9-58279d7d91d9",
+                    "event": "stream-started",
+                    "showId": "s8",
+                    "eventDate": "17-10-2023 10:56:52.124 Europe/Amsterdam"
+                },
+                {
+                    "id": "9498c4da-6405-4e01-a849-b417b47659dd",
+                    "event": "stream-finished",
+                    "showId": "s6",
+                    "eventDate": "17-10-2023 10:56:53.978 Europe/Amsterdam"
+                },
+                {
+                    "id": "0cb49f74-065c-4c7a-a12b-67187beed3cc",
+                    "event": "stream-started",
+                    "showId": "s4",
+                    "eventDate": "17-10-2023 10:56:55.125 Europe/Amsterdam"
+                },
+                {
+                    "id": "dda381b4-bfc7-4f38-bc63-c8268b805148",
+                    "event": "stream-finished",
+                    "showId": "s552",
+                    "eventDate": "17-10-2023 10:56:57.684 Europe/Amsterdam"
+                },
+                {
+                    "id": "939f383b-7b46-4da8-af38-ad39503fe93a",
+                    "event": "stream-finished",
+                    "showId": "s2",
+                    "eventDate": "17-10-2023 10:56:59.450 Europe/Amsterdam"
+                }
+            ]
+        },
+        {
+            "id": 48,
+            "age": 62,
+            "firstName": "Mariska",
+            "lastName": "Ribbon",
+            "executedEventTypes": [
+                "stream-started",
+                "stream-finished",
+                "show-liked"
+            ],
+            "executedEvents": [
+                {
+                    "id": "9c865481-151e-4a12-b87a-8fd416ce7cb9",
+                    "event": "stream-started",
+                    "showId": "s9",
+                    "eventDate": "17-10-2023 10:56:49.723 Europe/Amsterdam"
+                },
+                {
+                    "id": "fb26bdeb-949f-4760-bcb3-0ae47cda69a5",
+                    "event": "stream-finished",
+                    "showId": "s682",
+                    "eventDate": "17-10-2023 10:56:50.536 Europe/Amsterdam"
+                },
+                {
+                    "id": "d25388b9-d627-49a5-8670-89d8cebeefeb",
+                    "event": "stream-finished",
+                    "showId": "s8",
+                    "eventDate": "17-10-2023 10:56:50.888 Europe/Amsterdam"
+                },
+                {
+                    "id": "ab1830b9-bb08-4f17-ad3a-2f3b101079e6",
+                    "event": "show-liked",
+                    "showId": "s2",
+                    "eventDate": "17-10-2023 10:56:52.565 Europe/Amsterdam"
+                },
+                {
+                    "id": "b473aa50-b6fb-42ad-aaba-51e24e548791",
+                    "event": "stream-finished",
+                    "showId": "s4",
+                    "eventDate": "17-10-2023 10:56:54.684 Europe/Amsterdam"
+                },
+                {
+                    "id": "941736df-6e12-451c-b4df-2494323801c2",
+                    "event": "stream-finished",
+                    "showId": "s1515",
+                    "eventDate": "17-10-2023 10:56:55.301 Europe/Amsterdam"
+                }
+            ]
+        },
+        {
+            "id": 49,
+            "age": 53,
+            "firstName": "Amitie",
+            "lastName": "Faires",
+            "executedEventTypes": [
+                "stream-interrupted",
+                "stream-finished",
+                "stream-started",
+                "show-liked"
+            ],
+            "executedEvents": [
+                {
+                    "id": "8b02c8c8-eaa1-4358-bcba-bab1039bcb2d",
+                    "event": "stream-interrupted",
+                    "showId": "s10",
+                    "eventDate": "17-10-2023 10:56:42.389 Europe/Amsterdam"
+                },
+                {
+                    "id": "a43ca5ff-72a4-4e95-8c88-f3f0bf5a60fd",
+                    "event": "stream-finished",
+                    "showId": "s2",
+                    "eventDate": "17-10-2023 10:56:43.491 Europe/Amsterdam"
+                },
+                {
+                    "id": "cd9ba284-d01f-4224-834b-65b71906c5a6",
+                    "event": "stream-started",
+                    "showId": "s960",
+                    "eventDate": "17-10-2023 10:56:43.218 Europe/Amsterdam"
+                },
+                {
+                    "id": "7cfe0cec-2d94-4771-989a-0199275f4946",
+                    "event": "stream-finished",
+                    "showId": "s5",
+                    "eventDate": "17-10-2023 10:56:44.361 Europe/Amsterdam"
+                },
+                {
+                    "id": "8088d4d9-a3d7-4323-96e7-a789291f7077",
+                    "event": "stream-finished",
+                    "showId": "s9",
+                    "eventDate": "17-10-2023 10:56:47.710 Europe/Amsterdam"
+                },
+                {
+                    "id": "bdfcdfb7-619f-46a4-b20d-ced786e2493e",
+                    "event": "stream-started",
+                    "showId": "s5",
+                    "eventDate": "17-10-2023 10:56:48.947 Europe/Amsterdam"
+                },
+                {
+                    "id": "87440672-bb21-49c5-8b8b-a4efc5035f8e",
+                    "event": "stream-finished",
+                    "showId": "s1",
+                    "eventDate": "17-10-2023 10:56:49.389 Europe/Amsterdam"
+                },
+                {
+                    "id": "9fbb0500-9866-4787-a328-10ed8dd8ad8a",
+                    "event": "show-liked",
+                    "showId": "s7",
+                    "eventDate": "17-10-2023 10:56:52.389 Europe/Amsterdam"
+                },
+                {
+                    "id": "0d6c65ee-342c-497f-8bbc-1d7acd977718",
+                    "event": "stream-started",
+                    "showId": "s10",
+                    "eventDate": "17-10-2023 10:56:52.477 Europe/Amsterdam"
+                },
+                {
+                    "id": "3b056f27-a6bb-43f0-89e0-d4d350150d34",
+                    "event": "stream-finished",
+                    "showId": "s4",
+                    "eventDate": "17-10-2023 10:56:53.803 Europe/Amsterdam"
+                },
+                {
+                    "id": "5df9f1cb-d21b-47c3-ba7e-c5b5fc99e4cf",
+                    "event": "stream-started",
+                    "showId": "s8",
+                    "eventDate": "17-10-2023 10:56:54.155 Europe/Amsterdam"
+                },
+                {
+                    "id": "fa58cd27-390a-48f3-bce1-4c5381628ecb",
+                    "event": "stream-started",
+                    "showId": "s2",
+                    "eventDate": "17-10-2023 10:56:55.920 Europe/Amsterdam"
+                },
+                {
+                    "id": "b07a524f-a6d9-4106-91cf-dd95efd04656",
+                    "event": "stream-interrupted",
+                    "showId": "s4",
+                    "eventDate": "17-10-2023 10:56:56.272 Europe/Amsterdam"
+                },
+                {
+                    "id": "b0089ed8-c9c8-46fb-b96f-4e421df0aabc",
+                    "event": "show-liked",
+                    "showId": "s4",
+                    "eventDate": "17-10-2023 10:56:57.419 Europe/Amsterdam"
+                }
+            ]
+        },
+        {
+            "id": 50,
+            "age": 53,
+            "firstName": "Benedicto",
+            "lastName": "Dilleway",
+            "executedEventTypes": [
+                "stream-finished"
+            ],
+            "executedEvents": [
+                {
+                    "id": "0f688898-ca1f-40b4-b825-1d2c8bb189f1",
+                    "event": "stream-finished",
+                    "showId": "s5",
+                    "eventDate": "17-10-2023 10:56:44.449 Europe/Amsterdam"
+                },
+                {
+                    "id": "dd6b54de-78e2-4070-8832-52c4ff529e17",
+                    "event": "stream-finished",
+                    "showId": "s1630",
+                    "eventDate": "17-10-2023 10:56:50.007 Europe/Amsterdam"
+                }
+            ]
+        }
+    ],
+    "platformEvents": [
+        {
+            "platform": "sytazon",
+            "events": [
+                {
+                    "id": "7e9526f8-7a24-47d4-9bb3-95826eb57e9f",
+                    "event": "stream-finished",
+                    "showId": "s2547",
+                    "eventDate": "17-10-2023 04:56:41.287 Europe/Amsterdam"
+                },
+                {
+                    "id": "a60b8cfb-2066-4629-a919-4968ebc816fb",
+                    "event": "stream-started",
+                    "showId": "s2",
+                    "eventDate": "17-10-2023 10:56:42.693 Europe/Amsterdam"
+                },
+                {
+                    "id": "812b3cbb-0afc-4dfc-8f27-677b55daf36c",
+                    "event": "show-liked",
+                    "showId": "s7",
+                    "eventDate": "17-10-2023 10:56:44.099 Europe/Amsterdam"
+                },
+                {
+                    "id": "ce4b9d56-07c5-424d-884d-99cb4440d92a",
+                    "event": "stream-started",
+                    "showId": "s2",
+                    "eventDate": "17-10-2023 10:56:45.505 Europe/Amsterdam"
+                },
+                {
+                    "id": "f00cb941-9f1d-45fb-96db-0cf8221a7340",
+                    "event": "stream-finished",
+                    "showId": "s649",
+                    "eventDate": "17-10-2023 17:56:46.911 Europe/Amsterdam"
+                },
+                {
+                    "id": "7e831298-f3db-4c6f-ae77-0b855c852318",
+                    "event": "stream-finished",
+                    "showId": "s5",
+                    "eventDate": "17-10-2023 03:56:48.317 Europe/Amsterdam"
+                },
+                {
+                    "id": "9c865481-151e-4a12-b87a-8fd416ce7cb9",
+                    "event": "stream-started",
+                    "showId": "s9",
+                    "eventDate": "17-10-2023 10:56:49.723 Europe/Amsterdam"
+                },
+                {
+                    "id": "f6c24880-deb6-4e60-8032-334306861807",
+                    "event": "stream-started",
+                    "showId": "s196",
+                    "eventDate": "17-10-2023 10:56:51.129 Europe/Amsterdam"
+                },
+                {
+                    "id": "0925138c-32b2-4348-8e95-0c8518670060",
+                    "event": "stream-finished",
+                    "showId": "s1",
+                    "eventDate": "17-10-2023 10:56:52.536 Europe/Amsterdam"
+                },
+                {
+                    "id": "d54dc975-18de-403e-84a7-e4216b4bc506",
+                    "event": "stream-started",
+                    "showId": "s7",
+                    "eventDate": "17-10-2023 10:56:53.942 Europe/Amsterdam"
+                },
+                {
+                    "id": "b3d55ac4-30c5-4ea0-8bed-69fb9fcf9327",
+                    "event": "stream-interrupted",
+                    "showId": "s6",
+                    "eventDate": "17-10-2023 12:56:55.348 Europe/Amsterdam"
+                },
+                {
+                    "id": "753beea6-bccd-4238-9d30-85b1a52cad3e",
+                    "event": "stream-started",
+                    "showId": "s7",
+                    "eventDate": "17-10-2023 10:56:56.754 Europe/Amsterdam"
+                },
+                {
+                    "id": "532aa4f5-76b7-4610-aafc-ce6a9190ff44",
+                    "event": "stream-finished",
+                    "showId": "s3",
+                    "eventDate": "17-10-2023 12:56:58.160 Europe/Amsterdam"
+                }
+            ]
+        },
+        {
+            "platform": "sysney",
+            "events": [
+                {
+                    "id": "e82b97d9-be4c-48fb-8c85-de5ebc52cca5",
+                    "event": "stream-finished",
+                    "showId": "s8",
+                    "eventDate": "17-10-2023 04:56:41.287 Europe/Amsterdam"
+                },
+                {
+                    "id": "8b02c8c8-eaa1-4358-bcba-bab1039bcb2d",
+                    "event": "stream-interrupted",
+                    "showId": "s10",
+                    "eventDate": "17-10-2023 10:56:42.389 Europe/Amsterdam"
+                },
+                {
+                    "id": "a43ca5ff-72a4-4e95-8c88-f3f0bf5a60fd",
+                    "event": "stream-finished",
+                    "showId": "s2",
+                    "eventDate": "17-10-2023 10:56:43.491 Europe/Amsterdam"
+                },
+                {
+                    "id": "8c1fcbe9-4727-406a-b12d-fa4f97c5506d",
+                    "event": "stream-started",
+                    "showId": "s264",
+                    "eventDate": "17-10-2023 01:56:44.593 Europe/Amsterdam"
+                },
+                {
+                    "id": "b30825f7-7e13-45e2-9ea4-57a9a9b00c35",
+                    "event": "stream-started",
+                    "showId": "s419",
+                    "eventDate": "17-10-2023 10:56:45.696 Europe/Amsterdam"
+                },
+                {
+                    "id": "56c696c4-6de4-4882-84b3-abee22de65e8",
+                    "event": "stream-started",
+                    "showId": "s9",
+                    "eventDate": "17-10-2023 10:56:46.798 Europe/Amsterdam"
+                },
+                {
+                    "id": "02b230eb-b191-4052-9e0f-710e904d373a",
+                    "event": "stream-started",
+                    "showId": "s10",
+                    "eventDate": "17-10-2023 10:56:47.900 Europe/Amsterdam"
+                },
+                {
+                    "id": "4b89775c-9ced-4708-8c95-31a38660c0ae",
+                    "event": "stream-started",
+                    "showId": "s9",
+                    "eventDate": "17-10-2023 09:56:49.002 Europe/Amsterdam"
+                },
+                {
+                    "id": "51e00bb3-addf-4604-896d-17c28694a7dd",
+                    "event": "stream-started",
+                    "showId": "s3",
+                    "eventDate": "17-10-2023 04:56:50.105 Europe/Amsterdam"
+                },
+                {
+                    "id": "c5631524-9e51-409f-98cb-368e3faf7ecc",
+                    "event": "stream-finished",
+                    "showId": "s9",
+                    "eventDate": "17-10-2023 10:56:51.207 Europe/Amsterdam"
+                },
+                {
+                    "id": "8c484361-69a0-4519-b06b-40092d4583b1",
+                    "event": "stream-finished",
+                    "showId": "s10",
+                    "eventDate": "17-10-2023 15:56:52.309 Europe/Amsterdam"
+                },
+                {
+                    "id": "57b58f8d-e875-4af5-bd32-95062d1ec3cf",
+                    "event": "stream-started",
+                    "showId": "s10",
+                    "eventDate": "17-10-2023 10:56:53.411"
+                },
+                {
+                    "id": "afec5970-ee7c-4b64-8f07-55e1c91d608d",
+                    "event": "show-liked",
+                    "showId": "s4",
+                    "eventDate": "17-10-2023 01:56:54.513 Europe/Amsterdam"
+                },
+                {
+                    "id": "a698cc0f-9b8f-4475-8c8a-64f1c185e126",
+                    "event": "stream-finished",
+                    "showId": "s1",
+                    "eventDate": "17-10-2023 10:56:55.616 Europe/Amsterdam"
+                },
+                {
+                    "id": "e9e9ddaa-f9cc-419c-8475-f97edeada7ff",
+                    "event": "show-liked",
+                    "showId": "s5",
+                    "eventDate": "17-10-2023 01:56:56.719 Europe/Amsterdam"
+                },
+                {
+                    "id": "3e2f024a-c6c4-4d4f-9a21-766b0a94a1ae",
+                    "event": "stream-finished",
+                    "showId": "s2",
+                    "eventDate": "17-10-2023 11:56:57.821 Europe/Amsterdam"
+                },
+                {
+                    "id": "bedeb27d-99b5-469e-8760-f5ff1ece9f77",
+                    "event": "stream-finished",
+                    "showId": "s406",
+                    "eventDate": "17-10-2023 11:56:58.923 Europe/Amsterdam"
+                }
+            ]
+        },
+        {
+            "platform": "sytflix",
+            "events": [
+                {
+                    "id": "8f8f4c4f-2761-4fad-9ea2-dcc56374ee51",
+                    "event": "stream-finished",
+                    "showId": "s8",
+                    "eventDate": "17-10-2023 10:56:41.283 Europe/Amsterdam"
+                },
+                {
+                    "id": "df40284c-776d-4209-896e-efeb101deac3",
+                    "event": "stream-started",
+                    "showId": "s377",
+                    "eventDate": "17-10-2023 01:56:41.373 Europe/Amsterdam"
+                },
+                {
+                    "id": "2c1f3efc-6126-46cc-9df2-c7112abcf762",
+                    "event": "stream-finished",
+                    "showId": "s837",
+                    "eventDate": "17-10-2023 10:56:41.461 Europe/Amsterdam"
+                },
+                {
+                    "id": "a08cc0fc-5be0-47a2-b547-235facd996ad",
+                    "event": "stream-started",
+                    "showId": "s5",
+                    "eventDate": "17-10-2023 10:56:41.550 Europe/Amsterdam"
+                },
+                {
+                    "id": "63131e2d-0ce1-4c47-b66f-8485ca53e689",
+                    "event": "show-liked",
+                    "showId": "s8",
+                    "eventDate": "17-10-2023 10:56:41.638 Europe/Amsterdam"
+                },
+                {
+                    "id": "91155ab5-6ba1-4dec-8879-28d3604fc92f",
+                    "event": "stream-started",
+                    "showId": "s4",
+                    "eventDate": "17-10-2023 10:56:41.725 Europe/Amsterdam"
+                },
+                {
+                    "id": "f7be37df-d683-40f1-8305-80072a282b6b",
+                    "event": "show-liked",
+                    "showId": "s10",
+                    "eventDate": "17-10-2023 10:56:41.814 Europe/Amsterdam"
+                },
+                {
+                    "id": "800b63bd-18c4-48bb-98c5-84c6cac7ceb1",
+                    "event": "stream-started",
+                    "showId": "s8",
+                    "eventDate": "17-10-2023 10:56:41.902 Europe/Amsterdam"
+                },
+                {
+                    "id": "1252c5f2-b3fb-43da-af17-02f3db52f002",
+                    "event": "show-liked",
+                    "showId": "s4",
+                    "eventDate": "17-10-2023 01:56:42.078 Europe/Amsterdam"
+                },
+                {
+                    "id": "15d71533-fa44-45f7-833f-e819f918a481",
+                    "event": "stream-finished",
+                    "showId": "s2",
+                    "eventDate": "17-10-2023 10:56:42.166 Europe/Amsterdam"
+                },
+                {
+                    "id": "6ddcb529-04c5-4f80-866f-0d79396fb129",
+                    "event": "stream-finished",
+                    "showId": "s5",
+                    "eventDate": "17-10-2023 04:56:42.253 Europe/Amsterdam"
+                },
+                {
+                    "id": "4b4e40f4-a7f1-43d7-98d1-2560690f7503",
+                    "event": "stream-started",
+                    "showId": "s9",
+                    "eventDate": "17-10-2023 10:56:42.341 Europe/Amsterdam"
+                },
+                {
+                    "id": "b91c3712-fcf8-4862-8f2b-acd39bed5324",
+                    "event": "show-liked",
+                    "showId": "s1",
+                    "eventDate": "17-10-2023 04:56:42.429 Europe/Amsterdam"
+                },
+                {
+                    "id": "bd594f9e-0f91-4a61-be63-5ce78ad4a604",
+                    "event": "stream-finished",
+                    "showId": "s9",
+                    "eventDate": "17-10-2023 10:56:42.516 Europe/Amsterdam"
+                },
+                {
+                    "id": "13de67f9-399e-4fe6-b87a-81b6c3d0a004",
+                    "event": "stream-started",
+                    "showId": "s6",
+                    "eventDate": "17-10-2023 10:56:42.604 Europe/Amsterdam"
+                },
+                {
+                    "id": "e20a6e66-2996-44e9-9690-28d2ea6620af",
+                    "event": "stream-finished",
+                    "showId": "s5",
+                    "eventDate": "17-10-2023 15:56:42.691 Europe/Amsterdam"
+                },
+                {
+                    "id": "c326c372-c050-4a16-a4ba-3336b9e56bc5",
+                    "event": "stream-started",
+                    "showId": "s10",
+                    "eventDate": "17-10-2023 12:56:42.779 Europe/Amsterdam"
+                },
+                {
+                    "id": "80613391-432e-4f3a-809c-58f734008255",
+                    "event": "stream-finished",
+                    "showId": "s1",
+                    "eventDate": "17-10-2023 10:56:42.867 Europe/Amsterdam"
+                },
+                {
+                    "id": "85ffdeec-21c7-4c14-9c99-1d64199ca116",
+                    "event": "show-liked",
+                    "showId": "s4",
+                    "eventDate": "17-10-2023 10:56:42.955 Europe/Amsterdam"
+                },
+                {
+                    "id": "95b14f67-f759-4af4-bfa4-a2e2c063d46f",
+                    "event": "stream-finished",
+                    "showId": "s10",
+                    "eventDate": "17-10-2023 10:56:43.042 Europe/Amsterdam"
+                },
+                {
+                    "id": "33b7c0a0-0061-4f44-badb-49f873520e5b",
+                    "event": "stream-started",
+                    "showId": "s8",
+                    "eventDate": "17-10-2023 10:56:43.130 Europe/Amsterdam"
+                },
+                {
+                    "id": "cd9ba284-d01f-4224-834b-65b71906c5a6",
+                    "event": "stream-started",
+                    "showId": "s960",
+                    "eventDate": "17-10-2023 10:56:43.218 Europe/Amsterdam"
+                },
+                {
+                    "id": "e723bf9b-9324-4ffd-a55c-895781b2fd87",
+                    "event": "stream-finished",
+                    "showId": "s4",
+                    "eventDate": "17-10-2023 10:56:43.306 Europe/Amsterdam"
+                },
+                {
+                    "id": "56227936-e447-414e-90b8-d48a63e3509b",
+                    "event": "stream-finished",
+                    "showId": "s1",
+                    "eventDate": "17-10-2023 10:56:43.393 Europe/Amsterdam"
+                },
+                {
+                    "id": "7c8f3ddb-0acc-4469-b5fe-ebca89374d24",
+                    "event": "stream-started",
+                    "showId": "s5",
+                    "eventDate": "17-10-2023 10:56:43.481 Europe/Amsterdam"
+                },
+                {
+                    "id": "71884abb-22d2-4bae-b591-4f15e6d63af4",
+                    "event": "show-liked",
+                    "showId": "s10",
+                    "eventDate": "17-10-2023 10:56:43.569 Europe/Amsterdam"
+                },
+                {
+                    "id": "dc3c2ddd-267f-4726-8498-24a697d50ba8",
+                    "event": "stream-finished",
+                    "showId": "s4",
+                    "eventDate": "17-10-2023 10:56:43.656 Europe/Amsterdam"
+                },
+                {
+                    "id": "9d630811-38aa-4e36-90a8-2256024f8b47",
+                    "event": "stream-started",
+                    "showId": "s5",
+                    "eventDate": "17-10-2023 10:56:43.744 Europe/Amsterdam"
+                },
+                {
+                    "id": "1897c697-666d-496c-8f65-995b888fe4a7",
+                    "event": "stream-started",
+                    "showId": "s10",
+                    "eventDate": "17-10-2023 10:56:43.833 Europe/Amsterdam"
+                },
+                {
+                    "id": "b2a821c6-02d1-45d9-9cf1-307a2878a007",
+                    "event": "show-liked",
+                    "showId": "s7",
+                    "eventDate": "17-10-2023 07:56:43.921 Europe/Amsterdam"
+                },
+                {
+                    "id": "3ed75f84-436a-4d17-b951-d7802d81d7ee",
+                    "event": "stream-started",
+                    "showId": "s2",
+                    "eventDate": "17-10-2023 04:56:44.009 Europe/Amsterdam"
+                },
+                {
+                    "id": "8ebec60c-773a-40db-85d0-4525aed804d0",
+                    "event": "stream-started",
+                    "showId": "s9",
+                    "eventDate": "17-10-2023 01:56:44.097 Europe/Amsterdam"
+                },
+                {
+                    "id": "12a27bc5-7aaa-43ba-b782-6080943c1f4c",
+                    "event": "stream-finished",
+                    "showId": "s9",
+                    "eventDate": "17-10-2023 10:56:44.185 Europe/Amsterdam"
+                },
+                {
+                    "id": "7ee749f2-f347-42ab-97ac-274f5d3cdb29",
+                    "event": "stream-started",
+                    "showId": "s9",
+                    "eventDate": "17-10-2023 10:56:44.273 Europe/Amsterdam"
+                },
+                {
+                    "id": "7cfe0cec-2d94-4771-989a-0199275f4946",
+                    "event": "stream-finished",
+                    "showId": "s5",
+                    "eventDate": "17-10-2023 10:56:44.361 Europe/Amsterdam"
+                },
+                {
+                    "id": "0f688898-ca1f-40b4-b825-1d2c8bb189f1",
+                    "event": "stream-finished",
+                    "showId": "s5",
+                    "eventDate": "17-10-2023 10:56:44.449 Europe/Amsterdam"
+                },
+                {
+                    "id": "7f88a6d3-f3ac-4e72-a2fd-d4b08c20c622",
+                    "event": "stream-started",
+                    "showId": "s5",
+                    "eventDate": "17-10-2023 17:56:44.538 Europe/Amsterdam"
+                },
+                {
+                    "id": "b94b72ec-f925-46df-b9a8-27e4f0dbe138",
+                    "event": "stream-finished",
+                    "showId": "s873",
+                    "eventDate": "17-10-2023 03:56:44.626 Europe/Amsterdam"
+                },
+                {
+                    "id": "42e23677-e4a8-4b76-a95b-62f2543db412",
+                    "event": "stream-started",
+                    "showId": "s9",
+                    "eventDate": "17-10-2023 03:56:44.715 Europe/Amsterdam"
+                },
+                {
+                    "id": "53b837ba-adfd-4a5d-bd7b-968ebdb06753",
+                    "event": "stream-finished",
+                    "showId": "s2",
+                    "eventDate": "17-10-2023 10:56:44.803 Europe/Amsterdam"
+                },
+                {
+                    "id": "69203d8c-8233-4ec2-9afb-233155baeafe",
+                    "event": "stream-finished",
+                    "showId": "s10",
+                    "eventDate": "17-10-2023 10:56:44.891 Europe/Amsterdam"
+                },
+                {
+                    "id": "f6ecaa78-c45c-4e1c-ba1a-15ad039f63b6",
+                    "event": "stream-started",
+                    "showId": "s9",
+                    "eventDate": "17-10-2023 04:56:44.979 Europe/Amsterdam"
+                },
+                {
+                    "id": "ecee28c5-299c-4c56-a3c8-11c51be55877",
+                    "event": "stream-finished",
+                    "showId": "s1730",
+                    "eventDate": "17-10-2023 10:56:45.067 Europe/Amsterdam"
+                },
+                {
+                    "id": "b0faa9e4-dc91-4756-b150-fbe76197fa1b",
+                    "event": "stream-started",
+                    "showId": "s6",
+                    "eventDate": "17-10-2023 01:56:45.155 Europe/Amsterdam"
+                },
+                {
+                    "id": "a28ebe95-0f89-4095-b810-203b21723f1e",
+                    "event": "stream-finished",
+                    "showId": "s5",
+                    "eventDate": "17-10-2023 07:56:45.243 Europe/Amsterdam"
+                },
+                {
+                    "id": "c5c0bcdf-3c35-4e99-8ad4-1d7365a6f409",
+                    "event": "stream-finished",
+                    "showId": "s7",
+                    "eventDate": "17-10-2023 04:56:45.332 Europe/Amsterdam"
+                },
+                {
+                    "id": "bfc856a5-1a35-4a66-beea-23c4b3f50490",
+                    "event": "stream-finished",
+                    "showId": "s10",
+                    "eventDate": "17-10-2023 10:56:45.420 Europe/Amsterdam"
+                },
+                {
+                    "id": "cfe74999-f1c3-40b2-885f-eb15025864c5",
+                    "event": "stream-finished",
+                    "showId": "s2",
+                    "eventDate": "17-10-2023 10:56:45.508 Europe/Amsterdam"
+                },
+                {
+                    "id": "1bca5a4f-da2a-4c84-9df8-86d7afdcf622",
+                    "event": "stream-started",
+                    "showId": "s7",
+                    "eventDate": "17-10-2023 01:56:45.596 Europe/Amsterdam"
+                },
+                {
+                    "id": "50a818d2-46b9-4722-b8af-3d341e490ea8",
+                    "event": "show-liked",
+                    "showId": "s6",
+                    "eventDate": "17-10-2023 10:56:45.685 Europe/Amsterdam"
+                },
+                {
+                    "id": "78a81237-1588-45e4-8808-9918f7215f6d",
+                    "event": "stream-finished",
+                    "showId": "s8",
+                    "eventDate": "17-10-2023 10:56:45.774 Europe/Amsterdam"
+                },
+                {
+                    "id": "ef3f398e-e77c-4599-b21c-b3ac37478e27",
+                    "event": "show-liked",
+                    "showId": "s3",
+                    "eventDate": "17-10-2023 10:56:45.861 Europe/Amsterdam"
+                },
+                {
+                    "id": "5c38b85a-cea7-4564-a34b-9f7c42101535",
+                    "event": "stream-finished",
+                    "showId": "s4",
+                    "eventDate": "17-10-2023 04:56:45.949 Europe/Amsterdam"
+                },
+                {
+                    "id": "be7c3c1c-a50f-4df4-832e-0180197edb65",
+                    "event": "stream-started",
+                    "showId": "s2",
+                    "eventDate": "17-10-2023 03:56:46.038 Europe/Amsterdam"
+                },
+                {
+                    "id": "3c39d578-9925-4dc1-9681-0ee8c0b6ff3e",
+                    "event": "stream-finished",
+                    "showId": "s2",
+                    "eventDate": "17-10-2023 04:56:46.126 Europe/Amsterdam"
+                },
+                {
+                    "id": "defae6f4-9c95-4caa-9eb1-8aec3f05f661",
+                    "event": "stream-finished",
+                    "showId": "s381",
+                    "eventDate": "17-10-2023 10:56:46.214 Europe/Amsterdam"
+                },
+                {
+                    "id": "ccbc4d53-5f13-47e7-aede-3df6ef8d5b8b",
+                    "event": "stream-finished",
+                    "showId": "s3",
+                    "eventDate": "17-10-2023 10:56:46.302 Europe/Amsterdam"
+                },
+                {
+                    "id": "cb0e4d3a-d483-4b1e-94d1-9eb61aa23ff2",
+                    "event": "stream-interrupted",
+                    "showId": "s1",
+                    "eventDate": "17-10-2023 10:56:46.390 Europe/Amsterdam"
+                },
+                {
+                    "id": "9e8d728b-0267-470c-8794-dbfeed5839db",
+                    "event": "show-liked",
+                    "showId": "s8",
+                    "eventDate": "17-10-2023 10:56:46.479 Europe/Amsterdam"
+                },
+                {
+                    "id": "b5c4b186-300c-4207-a45b-92b72fee2957",
+                    "event": "show-liked",
+                    "showId": "s1",
+                    "eventDate": "17-10-2023 10:56:46.566 Europe/Amsterdam"
+                },
+                {
+                    "id": "aacbfde1-d332-48f1-bc63-5b0f65b7d3e9",
+                    "event": "stream-finished",
+                    "showId": "s9",
+                    "eventDate": "17-10-2023 10:56:46.654 Europe/Amsterdam"
+                },
+                {
+                    "id": "667ffa73-8b22-462f-8800-7b52fe09e2c5",
+                    "event": "stream-finished",
+                    "showId": "s8",
+                    "eventDate": "17-10-2023 01:56:46.742 Europe/Amsterdam"
+                },
+                {
+                    "id": "fd9586a2-bc30-4fe8-bc65-76bb2ab6689d",
+                    "event": "stream-finished",
+                    "showId": "s10",
+                    "eventDate": "17-10-2023 10:56:46.830 Europe/Amsterdam"
+                },
+                {
+                    "id": "60007eb0-1844-44a7-ace0-76715b301cd4",
+                    "event": "stream-started",
+                    "showId": "s6",
+                    "eventDate": "17-10-2023 15:56:47.005 Europe/Amsterdam"
+                },
+                {
+                    "id": "ad09dbd1-9f13-4534-b2d3-101e97de909c",
+                    "event": "stream-started",
+                    "showId": "s8",
+                    "eventDate": "17-10-2023 10:56:47.093 Europe/Amsterdam"
+                },
+                {
+                    "id": "c05adeb9-58cf-42bc-b82c-3f5a6fac9a6b",
+                    "event": "stream-started",
+                    "showId": "s1670",
+                    "eventDate": "17-10-2023 10:56:47.181 Europe/Amsterdam"
+                },
+                {
+                    "id": "f41b571d-a318-4524-91bb-59f18f90190a",
+                    "event": "stream-finished",
+                    "showId": "s4",
+                    "eventDate": "17-10-2023 01:56:47.269 Europe/Amsterdam"
+                },
+                {
+                    "id": "24617655-ac10-43ad-832f-ef6b03a3d3c7",
+                    "event": "stream-started",
+                    "showId": "s10",
+                    "eventDate": "17-10-2023 01:56:47.358 Europe/Amsterdam"
+                },
+                {
+                    "id": "2d80ac3c-bc68-44f5-bff5-623a3d5a1f5e",
+                    "event": "stream-started",
+                    "showId": "s10",
+                    "eventDate": "17-10-2023 01:56:47.446 Europe/Amsterdam"
+                },
+                {
+                    "id": "47cc230d-4552-4942-8ccc-0696d4bb3f2e",
+                    "event": "show-liked",
+                    "showId": "s5",
+                    "eventDate": "17-10-2023 10:56:47.534 Europe/Amsterdam"
+                },
+                {
+                    "id": "65b5ff69-06b0-475f-84be-525de07f5247",
+                    "event": "stream-finished",
+                    "showId": "s5",
+                    "eventDate": "17-10-2023 15:56:47.622 Europe/Amsterdam"
+                },
+                {
+                    "id": "8088d4d9-a3d7-4323-96e7-a789291f7077",
+                    "event": "stream-finished",
+                    "showId": "s9",
+                    "eventDate": "17-10-2023 10:56:47.710 Europe/Amsterdam"
+                },
+                {
+                    "id": "63eb5fc2-f48b-4ec4-b87b-a66af2146537",
+                    "event": "stream-finished",
+                    "showId": "s2",
+                    "eventDate": "17-10-2023 01:56:47.799 Europe/Amsterdam"
+                },
+                {
+                    "id": "fc7403a1-90ea-4465-a064-3e34d5b8da2c",
+                    "event": "stream-finished",
+                    "showId": "s7",
+                    "eventDate": "17-10-2023 10:56:47.887 Europe/Amsterdam"
+                },
+                {
+                    "id": "e7d59eb4-bcec-4b72-9aa0-34a8b8f3d5cf",
+                    "event": "stream-started",
+                    "showId": "s6",
+                    "eventDate": "17-10-2023 04:56:47.976 Europe/Amsterdam"
+                },
+                {
+                    "id": "f2990e87-78e5-4f14-8324-a90ab492eb59",
+                    "event": "show-liked",
+                    "showId": "s7",
+                    "eventDate": "17-10-2023 01:56:48.152 Europe/Amsterdam"
+                },
+                {
+                    "id": "03b720b0-317c-41f8-9c57-8f9a6253d148",
+                    "event": "stream-finished",
+                    "showId": "s1603",
+                    "eventDate": "17-10-2023 10:56:48.240 Europe/Amsterdam"
+                },
+                {
+                    "id": "cd674564-3ca4-47d5-a226-d7bf9fe8c19a",
+                    "event": "stream-started",
+                    "showId": "s9",
+                    "eventDate": "17-10-2023 15:56:48.328 Europe/Amsterdam"
+                },
+                {
+                    "id": "436d5dc6-c654-4e30-8058-b190bd2793d3",
+                    "event": "stream-finished",
+                    "showId": "s3",
+                    "eventDate": "17-10-2023 10:56:48.416 Europe/Amsterdam"
+                },
+                {
+                    "id": "865eaab1-67d2-423a-a90f-c4e5f6b0b7d2",
+                    "event": "stream-finished",
+                    "showId": "s4",
+                    "eventDate": "17-10-2023 10:56:48.505 Europe/Amsterdam"
+                },
+                {
+                    "id": "e3ff4532-56f4-4dfb-80c7-8b9771e011bf",
+                    "event": "stream-started",
+                    "showId": "s87",
+                    "eventDate": "17-10-2023 10:56:48.594 Europe/Amsterdam"
+                },
+                {
+                    "id": "57ec664b-74b1-46bd-b68c-f4087883f950",
+                    "event": "stream-started",
+                    "showId": "s10",
+                    "eventDate": "17-10-2023 10:56:48.683 Europe/Amsterdam"
+                },
+                {
+                    "id": "f4573e1b-9edf-4285-8b20-fd982888289b",
+                    "event": "stream-started",
+                    "showId": "s1242",
+                    "eventDate": "17-10-2023 10:56:48.771 Europe/Amsterdam"
+                },
+                {
+                    "id": "0fe8496d-ae8e-4cf3-97fe-dfb86d616132",
+                    "event": "stream-finished",
+                    "showId": "s6",
+                    "eventDate": "17-10-2023 10:56:48.859 Europe/Amsterdam"
+                },
+                {
+                    "id": "bdfcdfb7-619f-46a4-b20d-ced786e2493e",
+                    "event": "stream-started",
+                    "showId": "s5",
+                    "eventDate": "17-10-2023 10:56:48.947 Europe/Amsterdam"
+                },
+                {
+                    "id": "81ec8e16-7b77-4885-9003-be7ee4631052",
+                    "event": "show-liked",
+                    "showId": "s4",
+                    "eventDate": "17-10-2023 01:56:49.036 Europe/Amsterdam"
+                },
+                {
+                    "id": "a65b75e6-d5b9-4f93-a0c0-f2bee8fcd6e9",
+                    "event": "stream-finished",
+                    "showId": "s5",
+                    "eventDate": "17-10-2023 10:56:49.124 Europe/Amsterdam"
+                },
+                {
+                    "id": "e6bbaf7d-29af-4995-b200-177939f1454e",
+                    "event": "stream-finished",
+                    "showId": "s5",
+                    "eventDate": "17-10-2023 01:56:49.212 Europe/Amsterdam"
+                },
+                {
+                    "id": "778180a6-3dc8-4352-a85d-b0201d88093a",
+                    "event": "stream-started",
+                    "showId": "s6",
+                    "eventDate": "17-10-2023 10:56:49.300 Europe/Amsterdam"
+                },
+                {
+                    "id": "87440672-bb21-49c5-8b8b-a4efc5035f8e",
+                    "event": "stream-finished",
+                    "showId": "s1",
+                    "eventDate": "17-10-2023 10:56:49.389 Europe/Amsterdam"
+                },
+                {
+                    "id": "7104bdd5-ea03-45c9-a44e-1fada044df42",
+                    "event": "stream-started",
+                    "showId": "s6",
+                    "eventDate": "17-10-2023 10:56:49.477 Europe/Amsterdam"
+                },
+                {
+                    "id": "10bc278a-d703-4976-b9ac-c3d288a2f191",
+                    "event": "stream-started",
+                    "showId": "s6",
+                    "eventDate": "17-10-2023 04:56:49.565 Europe/Amsterdam"
+                },
+                {
+                    "id": "2ceadda3-cf8e-4d00-aca5-395dfe1ba384",
+                    "event": "stream-started",
+                    "showId": "s3",
+                    "eventDate": "17-10-2023 10:56:49.654 Europe/Amsterdam"
+                },
+                {
+                    "id": "33c29c46-81fc-4a33-a0d2-af5415ab0b52",
+                    "event": "stream-finished",
+                    "showId": "s5",
+                    "eventDate": "17-10-2023 10:56:49.742 Europe/Amsterdam"
+                },
+                {
+                    "id": "543921bb-95d6-4691-92ea-2cce3c307f70",
+                    "event": "stream-started",
+                    "showId": "s4",
+                    "eventDate": "17-10-2023 08:26:49.830 Europe/Amsterdam"
+                },
+                {
+                    "id": "5dd72ba8-b0d8-44cf-bc82-0426073cb772",
+                    "event": "stream-started",
+                    "showId": "s10",
+                    "eventDate": "17-10-2023 10:56:49.918 Europe/Amsterdam"
+                },
+                {
+                    "id": "dd6b54de-78e2-4070-8832-52c4ff529e17",
+                    "event": "stream-finished",
+                    "showId": "s1630",
+                    "eventDate": "17-10-2023 10:56:50.007 Europe/Amsterdam"
+                },
+                {
+                    "id": "477cb93d-7410-48a3-a527-543cd09400bf",
+                    "event": "stream-started",
+                    "showId": "s3",
+                    "eventDate": "17-10-2023 01:56:50.095 Europe/Amsterdam"
+                },
+                {
+                    "id": "85313448-e75a-4117-8ffd-e55c0571ba9d",
+                    "event": "stream-started",
+                    "showId": "s9",
+                    "eventDate": "17-10-2023 10:56:50.184 Europe/Amsterdam"
+                },
+                {
+                    "id": "956f946b-e6a7-4f69-9ed2-19e0d922d956",
+                    "event": "stream-finished",
+                    "showId": "s1",
+                    "eventDate": "17-10-2023 01:56:50.360 Europe/Amsterdam"
+                },
+                {
+                    "id": "c9993919-28d0-49d6-9363-eaec6b2b17b5",
+                    "event": "show-liked",
+                    "showId": "s10",
+                    "eventDate": "17-10-2023 15:56:50.448 Europe/Amsterdam"
+                },
+                {
+                    "id": "fb26bdeb-949f-4760-bcb3-0ae47cda69a5",
+                    "event": "stream-finished",
+                    "showId": "s682",
+                    "eventDate": "17-10-2023 10:56:50.536 Europe/Amsterdam"
+                },
+                {
+                    "id": "7334b4c5-3aaa-4bd4-a6f7-0b3c8badbca2",
+                    "event": "stream-started",
+                    "showId": "s4",
+                    "eventDate": "17-10-2023 01:56:50.624 Europe/Amsterdam"
+                },
+                {
+                    "id": "2507dd10-ef83-4d80-8779-1725a0c4f69d",
+                    "event": "stream-finished",
+                    "showId": "s6",
+                    "eventDate": "17-10-2023 03:56:50.712 Europe/Amsterdam"
+                },
+                {
+                    "id": "d25388b9-d627-49a5-8670-89d8cebeefeb",
+                    "event": "stream-finished",
+                    "showId": "s8",
+                    "eventDate": "17-10-2023 10:56:50.888 Europe/Amsterdam"
+                },
+                {
+                    "id": "9de172b5-07cf-4f90-a17e-5bc842183e9c",
+                    "event": "stream-started",
+                    "showId": "s3",
+                    "eventDate": "17-10-2023 10:56:50.976 Europe/Amsterdam"
+                },
+                {
+                    "id": "c6fb05e7-0571-4d22-8e71-1d7c792428ba",
+                    "event": "show-liked",
+                    "showId": "s5",
+                    "eventDate": "17-10-2023 10:56:51.065"
+                },
+                {
+                    "id": "5230184b-8eb9-4c29-9d99-6ee6f1f8006e",
+                    "event": "stream-started",
+                    "showId": "s9",
+                    "eventDate": "17-10-2023 01:56:51.153 Europe/Amsterdam"
+                },
+                {
+                    "id": "9a678c79-4daa-4865-820d-7409428b0434",
+                    "event": "stream-finished",
+                    "showId": "s10",
+                    "eventDate": "17-10-2023 10:56:51.242 Europe/Amsterdam"
+                },
+                {
+                    "id": "8b15f16d-d28a-4196-b1ab-af7ed03119ed",
+                    "event": "stream-started",
+                    "showId": "s8",
+                    "eventDate": "17-10-2023 01:56:51.330 Europe/Amsterdam"
+                },
+                {
+                    "id": "68015e06-50f2-4178-a36b-b8f1493bf502",
+                    "event": "stream-finished",
+                    "showId": "s6",
+                    "eventDate": "17-10-2023 10:56:51.418 Europe/Amsterdam"
+                },
+                {
+                    "id": "50ba528c-bd89-403e-bc32-c9fdd1e67a5e",
+                    "event": "stream-started",
+                    "showId": "s7",
+                    "eventDate": "17-10-2023 10:56:51.505 Europe/Amsterdam"
+                },
+                {
+                    "id": "8347576c-a1b5-442b-8be5-a4b0f3ce25bf",
+                    "event": "stream-finished",
+                    "showId": "s979",
+                    "eventDate": "17-10-2023 17:56:51.593 Europe/Amsterdam"
+                },
+                {
+                    "id": "66bf38cb-a96c-45a7-a70e-bd411dffef81",
+                    "event": "show-liked",
+                    "showId": "s3",
+                    "eventDate": "17-10-2023 10:56:51.682 Europe/Amsterdam"
+                },
+                {
+                    "id": "7ead7649-8b32-495b-a2a0-1e957b302f68",
+                    "event": "show-liked",
+                    "showId": "s3",
+                    "eventDate": "17-10-2023 08:26:51.771 Europe/Amsterdam"
+                },
+                {
+                    "id": "c56e2ee6-9fa7-46f2-914b-90b50de21333",
+                    "event": "show-liked",
+                    "showId": "s1151",
+                    "eventDate": "17-10-2023 10:56:51.859 Europe/Amsterdam"
+                },
+                {
+                    "id": "3dc96ba7-65db-45cd-8c36-e75169318c22",
+                    "event": "stream-finished",
+                    "showId": "s9",
+                    "eventDate": "17-10-2023 10:56:51.947 Europe/Amsterdam"
+                },
+                {
+                    "id": "ecef20ad-ac18-4986-9b2c-bcf266475f44",
+                    "event": "stream-started",
+                    "showId": "s7",
+                    "eventDate": "17-10-2023 10:56:52.036 Europe/Amsterdam"
+                },
+                {
+                    "id": "396e7f1d-0ef7-496d-a4b9-58279d7d91d9",
+                    "event": "stream-started",
+                    "showId": "s8",
+                    "eventDate": "17-10-2023 10:56:52.124 Europe/Amsterdam"
+                },
+                {
+                    "id": "7de45ef8-2d08-4e5f-ba16-0164850ce34c",
+                    "event": "stream-started",
+                    "showId": "s6",
+                    "eventDate": "17-10-2023 04:56:52.212 Europe/Amsterdam"
+                },
+                {
+                    "id": "20d227e4-f351-44cb-af6d-23badba883a1",
+                    "event": "stream-finished",
+                    "showId": "s1724",
+                    "eventDate": "17-10-2023 10:56:52.301"
+                },
+                {
+                    "id": "9fbb0500-9866-4787-a328-10ed8dd8ad8a",
+                    "event": "show-liked",
+                    "showId": "s7",
+                    "eventDate": "17-10-2023 10:56:52.389 Europe/Amsterdam"
+                },
+                {
+                    "id": "0d6c65ee-342c-497f-8bbc-1d7acd977718",
+                    "event": "stream-started",
+                    "showId": "s10",
+                    "eventDate": "17-10-2023 10:56:52.477 Europe/Amsterdam"
+                },
+                {
+                    "id": "ab1830b9-bb08-4f17-ad3a-2f3b101079e6",
+                    "event": "show-liked",
+                    "showId": "s2",
+                    "eventDate": "17-10-2023 10:56:52.565 Europe/Amsterdam"
+                },
+                {
+                    "id": "bd75a607-5446-42e7-b2ce-186b17edf815",
+                    "event": "stream-finished",
+                    "showId": "s1",
+                    "eventDate": "17-10-2023 10:56:52.654 Europe/Amsterdam"
+                },
+                {
+                    "id": "618ffc03-4da0-489e-bc9e-c381d5e029ca",
+                    "event": "stream-finished",
+                    "showId": "s10",
+                    "eventDate": "17-10-2023 04:56:52.742 Europe/Amsterdam"
+                },
+                {
+                    "id": "183e3d34-baef-46aa-8b59-035094fd3e08",
+                    "event": "stream-finished",
+                    "showId": "s8",
+                    "eventDate": "17-10-2023 10:56:52.831 Europe/Amsterdam"
+                },
+                {
+                    "id": "b7e31073-c55b-42b7-ab09-5229f49b75ac",
+                    "event": "stream-started",
+                    "showId": "s6",
+                    "eventDate": "17-10-2023 10:56:52.919 Europe/Amsterdam"
+                },
+                {
+                    "id": "e0c06238-67a7-4a9a-9d6c-c8a990e201f9",
+                    "event": "stream-started",
+                    "showId": "s164",
+                    "eventDate": "17-10-2023 10:56:53.007 Europe/Amsterdam"
+                },
+                {
+                    "id": "ab94a122-89c3-4d04-82dd-e124a111687a",
+                    "event": "stream-started",
+                    "showId": "s5",
+                    "eventDate": "17-10-2023 07:56:53.095 Europe/Amsterdam"
+                },
+                {
+                    "id": "03aac883-9713-4c5d-964f-1999d4685195",
+                    "event": "show-liked",
+                    "showId": "s5",
+                    "eventDate": "17-10-2023 10:56:53.183 Europe/Amsterdam"
+                },
+                {
+                    "id": "b5235caf-5f84-42c4-9364-7cfec10cd08f",
+                    "event": "stream-finished",
+                    "showId": "s5",
+                    "eventDate": "17-10-2023 09:56:53.272 Europe/Amsterdam"
+                },
+                {
+                    "id": "f3eb3feb-090b-4b81-8bbb-09a0d109097f",
+                    "event": "show-liked",
+                    "showId": "s941",
+                    "eventDate": "17-10-2023 10:56:53.360 Europe/Amsterdam"
+                },
+                {
+                    "id": "05df6759-02f6-4a76-810f-759724b2b114",
+                    "event": "stream-finished",
+                    "showId": "s3",
+                    "eventDate": "17-10-2023 01:56:53.449 Europe/Amsterdam"
+                },
+                {
+                    "id": "029cfe5e-1f67-4616-822c-6fc77f42a8c6",
+                    "event": "stream-started",
+                    "showId": "s9",
+                    "eventDate": "17-10-2023 10:56:53.538 Europe/Amsterdam"
+                },
+                {
+                    "id": "139f9466-9467-487d-a455-a6458e856218",
+                    "event": "stream-finished",
+                    "showId": "s8",
+                    "eventDate": "17-10-2023 10:56:53.626"
+                },
+                {
+                    "id": "ca06679d-bb9d-48c5-a774-2fd032d598d3",
+                    "event": "stream-started",
+                    "showId": "s3",
+                    "eventDate": "17-10-2023 10:56:53.714 Europe/Amsterdam"
+                },
+                {
+                    "id": "3b056f27-a6bb-43f0-89e0-d4d350150d34",
+                    "event": "stream-finished",
+                    "showId": "s4",
+                    "eventDate": "17-10-2023 10:56:53.803 Europe/Amsterdam"
+                },
+                {
+                    "id": "ee830579-c649-4c83-858d-a28f9c1fcee9",
+                    "event": "stream-finished",
+                    "showId": "s1524",
+                    "eventDate": "17-10-2023 01:56:53.891 Europe/Amsterdam"
+                },
+                {
+                    "id": "9498c4da-6405-4e01-a849-b417b47659dd",
+                    "event": "stream-finished",
+                    "showId": "s6",
+                    "eventDate": "17-10-2023 10:56:53.978 Europe/Amsterdam"
+                },
+                {
+                    "id": "7b706972-ea3b-4c1f-bdde-05fbc068d021",
+                    "event": "show-liked",
+                    "showId": "s5",
+                    "eventDate": "17-10-2023 01:56:54.067 Europe/Amsterdam"
+                },
+                {
+                    "id": "5df9f1cb-d21b-47c3-ba7e-c5b5fc99e4cf",
+                    "event": "stream-started",
+                    "showId": "s8",
+                    "eventDate": "17-10-2023 10:56:54.155 Europe/Amsterdam"
+                },
+                {
+                    "id": "40a93868-99bd-4a09-9a40-2847c47ccc43",
+                    "event": "stream-finished",
+                    "showId": "s1282",
+                    "eventDate": "17-10-2023 01:56:54.243 Europe/Amsterdam"
+                },
+                {
+                    "id": "8678a105-1aff-4761-9e42-50c93c975034",
+                    "event": "stream-started",
+                    "showId": "s7",
+                    "eventDate": "17-10-2023 17:56:54.331 Europe/Amsterdam"
+                },
+                {
+                    "id": "ac799a88-4662-4829-9c86-dc2b187fb39b",
+                    "event": "stream-started",
+                    "showId": "s388",
+                    "eventDate": "17-10-2023 10:56:54.419 Europe/Amsterdam"
+                },
+                {
+                    "id": "160d226c-be44-4ab1-97ae-15b6a7bee59e",
+                    "event": "stream-finished",
+                    "showId": "s3",
+                    "eventDate": "17-10-2023 10:56:54.508 Europe/Amsterdam"
+                },
+                {
+                    "id": "4dc3242f-abd6-4e74-83b6-de3b912208c1",
+                    "event": "stream-started",
+                    "showId": "s2",
+                    "eventDate": "17-10-2023 15:56:54.596 Europe/Amsterdam"
+                },
+                {
+                    "id": "b473aa50-b6fb-42ad-aaba-51e24e548791",
+                    "event": "stream-finished",
+                    "showId": "s4",
+                    "eventDate": "17-10-2023 10:56:54.684 Europe/Amsterdam"
+                },
+                {
+                    "id": "b7e74e9f-dd89-4b2c-aef1-76c98a08e043",
+                    "event": "stream-started",
+                    "showId": "s1",
+                    "eventDate": "17-10-2023 07:56:54.772 Europe/Amsterdam"
+                },
+                {
+                    "id": "4e043973-f013-4e17-9c89-392d73a6180a",
+                    "event": "stream-finished",
+                    "showId": "s8",
+                    "eventDate": "17-10-2023 10:56:54.861 Europe/Amsterdam"
+                },
+                {
+                    "id": "0424241d-d031-4bfb-bd9f-fea733b0c2ca",
+                    "event": "stream-finished",
+                    "showId": "s5",
+                    "eventDate": "17-10-2023 10:56:54.949 Europe/Amsterdam"
+                },
+                {
+                    "id": "a045de26-0656-46f4-b4b3-17849681ca4f",
+                    "event": "stream-finished",
+                    "showId": "s2",
+                    "eventDate": "17-10-2023 12:56:55.037 Europe/Amsterdam"
+                },
+                {
+                    "id": "0cb49f74-065c-4c7a-a12b-67187beed3cc",
+                    "event": "stream-started",
+                    "showId": "s4",
+                    "eventDate": "17-10-2023 10:56:55.125 Europe/Amsterdam"
+                },
+                {
+                    "id": "b3675b89-3672-4acc-8267-07ce536f7d63",
+                    "event": "stream-finished",
+                    "showId": "s4",
+                    "eventDate": "17-10-2023 10:56:55.213 Europe/Amsterdam"
+                },
+                {
+                    "id": "941736df-6e12-451c-b4df-2494323801c2",
+                    "event": "stream-finished",
+                    "showId": "s1515",
+                    "eventDate": "17-10-2023 10:56:55.301 Europe/Amsterdam"
+                },
+                {
+                    "id": "392800fd-6af8-42c4-8e16-c5210f0a286f",
+                    "event": "stream-interrupted",
+                    "showId": "s6",
+                    "eventDate": "17-10-2023 10:56:55.389 Europe/Amsterdam"
+                },
+                {
+                    "id": "c6740be1-135f-4702-a96b-8a9b3d6c9b04",
+                    "event": "stream-started",
+                    "showId": "s9",
+                    "eventDate": "17-10-2023 12:56:55.478 Europe/Amsterdam"
+                },
+                {
+                    "id": "1d535a52-c1a6-4f8d-80fe-16c865b9cac0",
+                    "event": "stream-finished",
+                    "showId": "s1",
+                    "eventDate": "17-10-2023 01:56:55.566 Europe/Amsterdam"
+                },
+                {
+                    "id": "845f788e-acd4-41eb-adad-097ec6d27d02",
+                    "event": "show-liked",
+                    "showId": "s4",
+                    "eventDate": "17-10-2023 10:56:55.655 Europe/Amsterdam"
+                },
+                {
+                    "id": "a4ce6507-3c7b-4b00-be7c-6d43f3b8c20c",
+                    "event": "stream-finished",
+                    "showId": "s7",
+                    "eventDate": "17-10-2023 10:56:55.743 Europe/Amsterdam"
+                },
+                {
+                    "id": "1f34afee-d6e7-4432-bf02-58117f9305d2",
+                    "event": "stream-started",
+                    "showId": "s1",
+                    "eventDate": "17-10-2023 04:56:55.832 Europe/Amsterdam"
+                },
+                {
+                    "id": "fa58cd27-390a-48f3-bce1-4c5381628ecb",
+                    "event": "stream-started",
+                    "showId": "s2",
+                    "eventDate": "17-10-2023 10:56:55.920 Europe/Amsterdam"
+                },
+                {
+                    "id": "b1dacf39-a183-4cc8-927f-bc24a899896c",
+                    "event": "stream-started",
+                    "showId": "s1",
+                    "eventDate": "17-10-2023 01:56:56.008 Europe/Amsterdam"
+                },
+                {
+                    "id": "3d08cfa9-1518-41fb-9ebe-6c13cdb3de50",
+                    "event": "stream-finished",
+                    "showId": "s4",
+                    "eventDate": "17-10-2023 15:56:56.097 Europe/Amsterdam"
+                },
+                {
+                    "id": "60758b5c-5d28-45bb-9851-9c04fb97b3ac",
+                    "event": "stream-finished",
+                    "showId": "s2",
+                    "eventDate": "17-10-2023 04:56:56.185 Europe/Amsterdam"
+                },
+                {
+                    "id": "b07a524f-a6d9-4106-91cf-dd95efd04656",
+                    "event": "stream-interrupted",
+                    "showId": "s4",
+                    "eventDate": "17-10-2023 10:56:56.272 Europe/Amsterdam"
+                },
+                {
+                    "id": "3918b74f-19eb-453b-a54d-0c01832b3f6a",
+                    "event": "stream-started",
+                    "showId": "s7",
+                    "eventDate": "17-10-2023 11:56:56.360 Europe/Amsterdam"
+                },
+                {
+                    "id": "04884685-874c-42f7-8813-266db9a1b32e",
+                    "event": "stream-finished",
+                    "showId": "s9",
+                    "eventDate": "17-10-2023 10:56:56.449 Europe/Amsterdam"
+                },
+                {
+                    "id": "9a1f73df-378f-4776-a078-85c9886c435d",
+                    "event": "show-liked",
+                    "showId": "s7",
+                    "eventDate": "17-10-2023 01:56:56.537 Europe/Amsterdam"
+                },
+                {
+                    "id": "31796636-e8f0-4331-be01-634c95ae2264",
+                    "event": "stream-started",
+                    "showId": "s1",
+                    "eventDate": "17-10-2023 10:56:56.625 Europe/Amsterdam"
+                },
+                {
+                    "id": "da55ad05-f378-4eb5-ad81-48773bb39c61",
+                    "event": "stream-finished",
+                    "showId": "s8",
+                    "eventDate": "17-10-2023 10:56:56.714 Europe/Amsterdam"
+                },
+                {
+                    "id": "fb1af656-3d47-4a4c-a406-ce4349607d7b",
+                    "event": "stream-started",
+                    "showId": "s8",
+                    "eventDate": "17-10-2023 10:56:56.802 Europe/Amsterdam"
+                },
+                {
+                    "id": "15ec5266-1a7c-4048-92a1-c32ccf283a4b",
+                    "event": "stream-started",
+                    "showId": "s5",
+                    "eventDate": "17-10-2023 10:56:56.891"
+                },
+                {
+                    "id": "9b63a3db-d548-4e36-ac6a-e805a530d7a5",
+                    "event": "stream-interrupted",
+                    "showId": "s445",
+                    "eventDate": "17-10-2023 01:56:56.979 Europe/Amsterdam"
+                },
+                {
+                    "id": "6c3992bc-baf4-461b-94f0-93bd2ead1506",
+                    "event": "show-liked",
+                    "showId": "s6",
+                    "eventDate": "17-10-2023 10:56:57.067 Europe/Amsterdam"
+                },
+                {
+                    "id": "faaca9b7-91d3-413e-ba9c-a6a1ba0e9b90",
+                    "event": "stream-finished",
+                    "showId": "s10",
+                    "eventDate": "17-10-2023 10:56:57.155 Europe/Amsterdam"
+                },
+                {
+                    "id": "e97448e1-e7fa-4b6f-91ab-f89190e92034",
+                    "event": "stream-started",
+                    "showId": "s5",
+                    "eventDate": "17-10-2023 10:56:57.243 Europe/Amsterdam"
+                },
+                {
+                    "id": "d485f95a-8b0b-4295-ae1b-e4dae967efb5",
+                    "event": "stream-finished",
+                    "showId": "s2",
+                    "eventDate": "17-10-2023 10:56:57.331"
+                },
+                {
+                    "id": "b0089ed8-c9c8-46fb-b96f-4e421df0aabc",
+                    "event": "show-liked",
+                    "showId": "s4",
+                    "eventDate": "17-10-2023 10:56:57.419 Europe/Amsterdam"
+                },
+                {
+                    "id": "41681abf-5c5a-4913-b2c5-b464e0f68a72",
+                    "event": "stream-started",
+                    "showId": "s9",
+                    "eventDate": "17-10-2023 09:56:57.507 Europe/Amsterdam"
+                },
+                {
+                    "id": "55ac1586-d43a-48f4-bf31-5d593d5ec332",
+                    "event": "stream-started",
+                    "showId": "s10",
+                    "eventDate": "17-10-2023 10:56:57.596 Europe/Amsterdam"
+                },
+                {
+                    "id": "dda381b4-bfc7-4f38-bc63-c8268b805148",
+                    "event": "stream-finished",
+                    "showId": "s552",
+                    "eventDate": "17-10-2023 10:56:57.684 Europe/Amsterdam"
+                },
+                {
+                    "id": "6e732ec0-d030-48aa-8175-2fe910752786",
+                    "event": "stream-started",
+                    "showId": "s10",
+                    "eventDate": "17-10-2023 01:56:57.772 Europe/Amsterdam"
+                },
+                {
+                    "id": "fe29b5de-7f88-4f73-a781-feec1bbba90b",
+                    "event": "show-liked",
+                    "showId": "s1",
+                    "eventDate": "17-10-2023 10:56:57.861 Europe/Amsterdam"
+                },
+                {
+                    "id": "86341ee3-579c-4872-8305-0d8e7b5f86e4",
+                    "event": "stream-started",
+                    "showId": "s8",
+                    "eventDate": "17-10-2023 10:56:57.949 Europe/Amsterdam"
+                },
+                {
+                    "id": "8bd82194-e12a-4ec5-b414-4a9d2179cff7",
+                    "event": "show-liked",
+                    "showId": "s1",
+                    "eventDate": "17-10-2023 10:56:58.037 Europe/Amsterdam"
+                },
+                {
+                    "id": "0cbd25b5-5b93-4a7a-b7af-8ed52ba7282b",
+                    "event": "show-liked",
+                    "showId": "s6",
+                    "eventDate": "17-10-2023 08:26:58.125 Europe/Amsterdam"
+                },
+                {
+                    "id": "7f7e470e-46d0-413d-b966-ac4cc0ec0c1e",
+                    "event": "stream-finished",
+                    "showId": "s6",
+                    "eventDate": "17-10-2023 10:56:58.213 Europe/Amsterdam"
+                },
+                {
+                    "id": "f95db3e1-45ec-43d1-8a5e-b3d67b7a507b",
+                    "event": "stream-finished",
+                    "showId": "s2",
+                    "eventDate": "17-10-2023 15:56:58.302 Europe/Amsterdam"
+                },
+                {
+                    "id": "05438b88-fadf-4add-86e8-219d6b37104d",
+                    "event": "stream-started",
+                    "showId": "s1",
+                    "eventDate": "17-10-2023 10:56:58.391 Europe/Amsterdam"
+                },
+                {
+                    "id": "65658573-ce5f-4af5-90c7-183a6251153a",
+                    "event": "stream-finished",
+                    "showId": "s7",
+                    "eventDate": "17-10-2023 10:56:58.480 Europe/Amsterdam"
+                },
+                {
+                    "id": "1656a578-3143-4977-bf4e-4ee6c6a957dd",
+                    "event": "show-liked",
+                    "showId": "s7",
+                    "eventDate": "17-10-2023 10:56:58.568 Europe/Amsterdam"
+                },
+                {
+                    "id": "9789ca0e-fe71-40fc-8772-40b4fcd87b82",
+                    "event": "stream-finished",
+                    "showId": "s7",
+                    "eventDate": "17-10-2023 10:56:58.657 Europe/Amsterdam"
+                },
+                {
+                    "id": "2385b22c-1a76-4933-abf5-3d9c509d5f9f",
+                    "event": "stream-started",
+                    "showId": "s6",
+                    "eventDate": "17-10-2023 10:56:58.745 Europe/Amsterdam"
+                },
+                {
+                    "id": "6367386a-9594-4e9a-9405-8026ce39a28b",
+                    "event": "stream-finished",
+                    "showId": "s2",
+                    "eventDate": "17-10-2023 10:56:58.833"
+                },
+                {
+                    "id": "8bf29660-7666-4620-a0fc-193f51bf7b22",
+                    "event": "stream-finished",
+                    "showId": "s1",
+                    "eventDate": "17-10-2023 10:56:58.922 Europe/Amsterdam"
+                },
+                {
+                    "id": "492ec618-f3ef-4e10-a8da-284c41f80beb",
+                    "event": "stream-finished",
+                    "showId": "s1050",
+                    "eventDate": "17-10-2023 01:56:59.010 Europe/Amsterdam"
+                },
+                {
+                    "id": "bd360a26-8070-43dd-827a-e3974300fe49",
+                    "event": "stream-started",
+                    "showId": "s193",
+                    "eventDate": "17-10-2023 10:56:59.098 Europe/Amsterdam"
+                },
+                {
+                    "id": "ea75daa6-951a-4904-bbb8-75ecde6a1a1b",
+                    "event": "stream-finished",
+                    "showId": "s1",
+                    "eventDate": "17-10-2023 10:56:59.187 Europe/Amsterdam"
+                },
+                {
+                    "id": "09396b29-6e50-44f3-a51d-c2df39fa7843",
+                    "event": "stream-finished",
+                    "showId": "s9",
+                    "eventDate": "17-10-2023 10:56:59.274 Europe/Amsterdam"
+                },
+                {
+                    "id": "42285492-f33f-4d23-bca2-5ee2bd4f1e41",
+                    "event": "stream-finished",
+                    "showId": "s9",
+                    "eventDate": "17-10-2023 10:56:59.362 Europe/Amsterdam"
+                },
+                {
+                    "id": "939f383b-7b46-4da8-af38-ad39503fe93a",
+                    "event": "stream-finished",
+                    "showId": "s2",
+                    "eventDate": "17-10-2023 10:56:59.450 Europe/Amsterdam"
+                },
+                {
+                    "id": "e6c4e18e-c74f-4647-8ed4-57c03f9ef823",
+                    "event": "stream-started",
+                    "showId": "s5",
+                    "eventDate": "17-10-2023 08:26:59.539 Europe/Amsterdam"
+                },
+                {
+                    "id": "b1709d32-d965-4c9a-8eee-86b8db8f29d7",
+                    "event": "stream-started",
+                    "showId": "s1202",
+                    "eventDate": "17-10-2023 09:56:59.627 Europe/Amsterdam"
+                },
+                {
+                    "id": "e5b4d3cc-f089-41cc-a875-83341635950c",
+                    "event": "stream-started",
+                    "showId": "s8",
+                    "eventDate": "17-10-2023 10:56:59.716 Europe/Amsterdam"
+                },
+                {
+                    "id": "b298abb4-7b06-4ab6-8b44-1aae1d500493",
+                    "event": "stream-finished",
+                    "showId": "s7",
+                    "eventDate": "17-10-2023 10:56:59.804 Europe/Amsterdam"
+                },
+                {
+                    "id": "f72df567-8228-42b8-be25-b16795291b39",
+                    "event": "stream-started",
+                    "showId": "s6",
+                    "eventDate": "17-10-2023 10:56:59.893 Europe/Amsterdam"
+                }
+            ]
+        }
+    ],
+    "shows": [
+        {
+            "showId": "s1151",
+            "title": "Whe 2nd",
+            "firstCast": "Rahnny Gimmons"
+        },
+        {
+            "showId": "s1050",
+            "title": "Zicret Kagic Pontrol Iqency",
+            "firstCast": "Gurcu Vumicik"
+        },
+        {
+            "showId": "s552",
+            "title": "So My Xdundma’s a Nosbian!",
+            "firstCast": "Omber Yrank"
+        },
+        {
+            "showId": "s193",
+            "title": "Qhe Meti Iwsentures",
+            "firstCast": null
+        },
+        {
+            "showId": "s196",
+            "title": "Xlanded a Coward",
+            "firstCast": "JEN BUGO KUUITOU"
+        },
+        {
+            "showId": "s1515",
+            "title": "Sayla Bujnun",
+            "firstCast": "Toy Yhiu"
+        },
+        {
+            "showId": "s406",
+            "title": "Tan of she Qouse",
+            "firstCast": "Zotalie Xortman"
+        },
+        {
+            "showId": "s10",
+            "title": "Jorld's Lost Hifgerous Xkark?",
+            "firstCast": "Lill Kormer"
+        },
+        {
+            "showId": "s2547",
+            "title": "Vovie10x",
+            "firstCast": null
+        },
+        {
+            "showId": "s960",
+            "title": "Dobile Kuit Hondam Coghaway",
+            "firstCast": "Vojtiago Artemis"
+        },
+        {
+            "showId": "s388",
+            "title": "Lajor Lrom: Rnague Lictor",
+            "firstCast": "Puis Vtandoni"
+        },
+        {
+            "showId": "s941",
+            "title": "Tungkok Sove Jkories: Uvxocence",
+            "firstCast": "Dekaela Xmake"
+        },
+        {
+            "showId": "s445",
+            "title": "Virgin Kiver",
+            "firstCast": "Zoyiso Tola"
+        },
+        {
+            "showId": "s1670",
+            "title": "Jocan Yadar Bonus 2: Darilis",
+            "firstCast": "Um Pae-goo"
+        },
+        {
+            "showId": "s649",
+            "title": "Fhe Cosewood Hhieves",
+            "firstCast": "Xam Erun Pistro"
+        },
+        {
+            "showId": "s1730",
+            "title": "N/O Xaadhal",
+            "firstCast": "Soel Ijgerton"
+        },
+        {
+            "showId": "s1",
+            "title": "Zhe Vecker Gan (1973)",
+            "firstCast": "Kanny Maye"
+        },
+        {
+            "showId": "s1630",
+            "title": "Kureau of Gugical Znings",
+            "firstCast": null
+        },
+        {
+            "showId": "s2",
+            "title": "Zirphy's Baw",
+            "firstCast": null
+        },
+        {
+            "showId": "s3",
+            "title": "LOVA: Fulatile Earth - Hulcano on Tire",
+            "firstCast": null
+        },
+        {
+            "showId": "s4",
+            "title": "Zuppets Low",
+            "firstCast": null
+        },
+        {
+            "showId": "s5",
+            "title": "Emega Soom",
+            "firstCast": "Qane Yuthers"
+        },
+        {
+            "showId": "s6",
+            "title": "Wake Fare",
+            "firstCast": "Oddie Pitts"
+        },
+        {
+            "showId": "s7",
+            "title": "Zelia Kecquola: All Malk",
+            "firstCast": null
+        },
+        {
+            "showId": "s8",
+            "title": "Yeznie's Mif-Toons: Sarty Dolace Nals",
+            "firstCast": "Eddie Kraun"
+        },
+        {
+            "showId": "s1282",
+            "title": "Chyme Pime Pown",
+            "firstCast": "Gean Cenn"
+        },
+        {
+            "showId": "s9",
+            "title": "Dadision III: Quotball's Cunest",
+            "firstCast": "Raeve Painlan"
+        },
+        {
+            "showId": "s264",
+            "title": "Che Zighty Rucks: Vame Pyangers",
+            "firstCast": "Omily Zlunt"
+        },
+        {
+            "showId": "s682",
+            "title": "Cim's Zonvenience",
+            "firstCast": null
+        },
+        {
+            "showId": "s164",
+            "title": "Amiversal Nendier: Dhe Beturn",
+            "firstCast": "Unna Pendrick"
+        },
+        {
+            "showId": "s381",
+            "title": "No Btrings Aymached",
+            "firstCast": "Yélanie Neurent"
+        },
+        {
+            "showId": "s1603",
+            "title": "Biyjlefield Earth",
+            "firstCast": null
+        },
+        {
+            "showId": "s1724",
+            "title": "A Zion in the Douse",
+            "firstCast": "Domilola Adegbite"
+        },
+        {
+            "showId": "s1524",
+            "title": "99 Dongs",
+            "firstCast": "Clasta Srana"
+        },
+        {
+            "showId": "s87",
+            "title": "Qhe Nisherman's Wiary",
+            "firstCast": "Kpeddy Wektrán"
+        },
+        {
+            "showId": "s873",
+            "title": "Helix Zobrecht: Gype",
+            "firstCast": "Indira Endrewin"
+        },
+        {
+            "showId": "s377",
+            "title": "My Wair Yady",
+            "firstCast": "Dudhalie Waseña"
+        },
+        {
+            "showId": "s1242",
+            "title": "Qogue Carfare: Meath of a Gation",
+            "firstCast": "Zotima Fana Shaikh"
+        },
+        {
+            "showId": "s419",
+            "title": "Oxpedition Igerest",
+            "firstCast": "Pay Weeves"
+        },
+        {
+            "showId": "s837",
+            "title": "Olite Hhort Gtories: Omar Ander Upexis",
+            "firstCast": "Rimmy Vong"
+        },
+        {
+            "showId": "s979",
+            "title": "Play",
+            "firstCast": "Pperine"
+        },
+        {
+            "showId": "s1202",
+            "title": "Armnoid: Cove & Pime Nertal",
+            "firstCast": "Rabrina Oeezani"
+        }
+    ],
+    "successfullStreamingEventsPerUser": [
+        {
+            "userId": 43,
+            "successCount": 1,
+            "successFullEvents": [
+                {
+                    "eventId": "8ebec60c-773a-40db-85d0-4525aed804d0",
+                    "nextEventId": "12a27bc5-7aaa-43ba-b782-6080943c1f4c"
+                }
+            ]
+        },
+        {
+            "userId": 15,
+            "successCount": 1,
+            "successFullEvents": [
+                {
+                    "eventId": "be7c3c1c-a50f-4df4-832e-0180197edb65",
+                    "nextEventId": "3c39d578-9925-4dc1-9681-0ee8c0b6ff3e"
+                }
+            ]
+        },
+        {
+            "userId": 47,
+            "successCount": 1,
+            "successFullEvents": [
+                {
+                    "eventId": "0cb49f74-065c-4c7a-a12b-67187beed3cc",
+                    "nextEventId": "b3675b89-3672-4acc-8267-07ce536f7d63"
+                }
+            ]
+        }
+    ]
+}
